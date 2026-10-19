@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-10-19 17:23",
+ "updated": "2026-10-19 18:21",
  "comp_logo": "logos/a4426d3c0e5a.png",
  "teams": [
   {
@@ -79,7 +79,7 @@
    "logo": "logos/ce0512d2b115.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 6,
+   "rank": 9,
    "record": "2-2",
    "last5": [
     {
@@ -546,6 +546,15 @@
    "last5": [
     {
      "wl": "W",
+     "score": "108:90",
+     "opponent": "Studentski Centar",
+     "venue": "H",
+     "date": "19.10. 15:30",
+     "pf": 108,
+     "pa": 90
+    },
+    {
+     "wl": "W",
      "score": "85:92",
      "opponent": "Cluj-Napoca",
      "venue": "A",
@@ -564,6 +573,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "108:90",
+     "opponent": "Studentski Centar",
+     "venue": "H",
+     "date": "19.10. 15:30",
+     "pf": 108,
+     "pa": 90
+    },
     {
      "wl": "W",
      "score": "85:92",
@@ -772,7 +790,7 @@
    "logo": "logos/2c1420f05f20.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 9,
+   "rank": 11,
    "record": "2-2",
    "last5": [
     {
@@ -932,9 +950,18 @@
    "logo": "logos/305eb70ac696.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 7,
-   "record": "3-0",
+   "rank": 3,
+   "record": "3-1",
    "last5": [
+    {
+     "wl": "L",
+     "score": "73:70",
+     "opponent": "Esenler Erokspor",
+     "venue": "A",
+     "date": "19.10. 16:00",
+     "pf": 70,
+     "pa": 73
+    },
     {
      "wl": "W",
      "score": "85:76",
@@ -964,6 +991,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "73:70",
+     "opponent": "Esenler Erokspor",
+     "venue": "A",
+     "date": "19.10. 16:00",
+     "pf": 70,
+     "pa": 73
+    },
     {
      "wl": "W",
      "score": "85:76",
