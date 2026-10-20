@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-10-20 15:23",
+ "updated": "2026-10-20 18:23",
  "comp_logo": "logos/a4426d3c0e5a.png",
  "teams": [
   {
@@ -317,10 +317,7 @@
      "pa": 105
     }
    ],
-   "next": {
-    "date": "25.10. 16:00",
-    "opponent": "Baskonia"
-   },
+   "next": null,
    "note": ""
   },
   {
