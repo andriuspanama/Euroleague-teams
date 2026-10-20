@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-10-20 18:23",
+ "updated": "2026-10-20 21:21",
  "comp_logo": "logos/a4426d3c0e5a.png",
  "teams": [
   {
@@ -317,7 +317,10 @@
      "pa": 105
     }
    ],
-   "next": null,
+   "next": {
+    "date": "25.10. 16:00",
+    "opponent": "Baskonia"
+   },
    "note": ""
   },
   {
@@ -1559,91 +1562,14 @@
   {
    "name": "Baskonia",
    "logo": "logos/98ab31536eee.png",
-   "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
-   "rank": 2,
-   "record": "3-1",
-   "last5": [
-    {
-     "wl": "L",
-     "score": "82:77",
-     "opponent": "Tenerife",
-     "venue": "A",
-     "date": "18.10. 16:00",
-     "pf": 77,
-     "pa": 82
-    },
-    {
-     "wl": "W",
-     "score": "93:73",
-     "opponent": "Joventut Badalona",
-     "venue": "H",
-     "date": "11.10. 15:00",
-     "pf": 93,
-     "pa": 73
-    },
-    {
-     "wl": "W",
-     "score": "118:78",
-     "opponent": "Basquet Girona",
-     "venue": "H",
-     "date": "04.10. 17:00",
-     "pf": 118,
-     "pa": 78
-    },
-    {
-     "wl": "W",
-     "score": "97:98",
-     "opponent": "San Pablo Burgos",
-     "venue": "A",
-     "date": "27.09. 10:30",
-     "pf": 98,
-     "pa": 97
-    }
-   ],
-   "games": [
-    {
-     "wl": "L",
-     "score": "82:77",
-     "opponent": "Tenerife",
-     "venue": "A",
-     "date": "18.10. 16:00",
-     "pf": 77,
-     "pa": 82
-    },
-    {
-     "wl": "W",
-     "score": "93:73",
-     "opponent": "Joventut Badalona",
-     "venue": "H",
-     "date": "11.10. 15:00",
-     "pf": 93,
-     "pa": 73
-    },
-    {
-     "wl": "W",
-     "score": "118:78",
-     "opponent": "Basquet Girona",
-     "venue": "H",
-     "date": "04.10. 17:00",
-     "pf": 118,
-     "pa": 78
-    },
-    {
-     "wl": "W",
-     "score": "97:98",
-     "opponent": "San Pablo Burgos",
-     "venue": "A",
-     "date": "27.09. 10:30",
-     "pf": 98,
-     "pa": 97
-    }
-   ],
-   "next": {
-    "date": "25.10. 16:00",
-    "opponent": "Valencia"
-   },
-   "note": ""
+   "league": null,
+   "league_logo": "",
+   "rank": null,
+   "record": "",
+   "last5": [],
+   "games": [],
+   "next": null,
+   "note": "Klaida: TimeoutError"
   }
  ]
 }
