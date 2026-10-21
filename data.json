@@ -1,13 +1,13 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-10-21 15:23",
+ "updated": "2026-10-21 18:21",
  "comp_logo": "logos/a4426d3c0e5a.png",
  "teams": [
   {
    "name": "Panathinaikos",
    "logo": "logos/9c75fb783005.png",
    "league": "Basket League",
-   "league_logo": "logos/21f5bcd543ba.png",
+   "league_logo": "logos/d618cd530704.png",
    "rank": 7,
    "record": "3-0",
    "last5": [
@@ -167,7 +167,7 @@
    "name": "Olympiacos",
    "logo": "logos/a8e763b6b424.png",
    "league": "Basket League",
-   "league_logo": "logos/21f5bcd543ba.png",
+   "league_logo": "logos/d618cd530704.png",
    "rank": 6,
    "record": "3-0",
    "last5": [
@@ -231,6 +231,59 @@
    "next": {
     "date": "25.10. 11:00",
     "opponent": "Promitheas"
+   },
+   "note": ""
+  },
+  {
+   "name": "Hapoel Tel Aviv",
+   "logo": "logos/fb32ddc6ad65.png",
+   "league": "Super League",
+   "league_logo": "logos/07d3791c1460.png",
+   "rank": 3,
+   "record": "2-0",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "81:67",
+     "opponent": "Maccabi Ashdod",
+     "venue": "H",
+     "date": "18.10. 15:30",
+     "pf": 81,
+     "pa": 67
+    },
+    {
+     "wl": "W",
+     "score": "82:95",
+     "opponent": "Hapoel Beer Sheva",
+     "venue": "A",
+     "date": "11.10. 15:30",
+     "pf": 95,
+     "pa": 82
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "81:67",
+     "opponent": "Maccabi Ashdod",
+     "venue": "H",
+     "date": "18.10. 15:30",
+     "pf": 81,
+     "pa": 67
+    },
+    {
+     "wl": "W",
+     "score": "82:95",
+     "opponent": "Hapoel Beer Sheva",
+     "venue": "A",
+     "date": "11.10. 15:30",
+     "pf": 95,
+     "pa": 82
+    }
+   ],
+   "next": {
+    "date": "25.10. 18:55",
+    "opponent": "Hapoel Jerusalem"
    },
    "note": ""
   },
@@ -395,55 +448,73 @@
    "note": ""
   },
   {
-   "name": "Hapoel Tel Aviv",
-   "logo": "logos/fb32ddc6ad65.png",
-   "league": "Super League",
-   "league_logo": "logos/07d3791c1460.png",
-   "rank": 3,
-   "record": "2-0",
+   "name": "Dubai",
+   "logo": "logos/8f361860857d.png",
+   "league": "Adrijos lyga",
+   "league_logo": "logos/4ecaeb496585.png",
+   "rank": 2,
+   "record": "3-0",
    "last5": [
     {
      "wl": "W",
-     "score": "81:67",
-     "opponent": "Maccabi Ashdod",
+     "score": "108:90",
+     "opponent": "Studentski Centar",
      "venue": "H",
-     "date": "18.10. 15:30",
-     "pf": 81,
-     "pa": 67
+     "date": "19.10. 15:30",
+     "pf": 108,
+     "pa": 90
     },
     {
      "wl": "W",
-     "score": "82:95",
-     "opponent": "Hapoel Beer Sheva",
+     "score": "85:92",
+     "opponent": "Cluj-Napoca",
      "venue": "A",
-     "date": "11.10. 15:30",
-     "pf": 95,
-     "pa": 82
+     "date": "11.10. 10:00",
+     "pf": 92,
+     "pa": 85
+    },
+    {
+     "wl": "W",
+     "score": "70:85",
+     "opponent": "Perspektiva Ilirija",
+     "venue": "A",
+     "date": "04.10. 18:00",
+     "pf": 85,
+     "pa": 70
     }
    ],
    "games": [
     {
      "wl": "W",
-     "score": "81:67",
-     "opponent": "Maccabi Ashdod",
+     "score": "108:90",
+     "opponent": "Studentski Centar",
      "venue": "H",
-     "date": "18.10. 15:30",
-     "pf": 81,
-     "pa": 67
+     "date": "19.10. 15:30",
+     "pf": 108,
+     "pa": 90
     },
     {
      "wl": "W",
-     "score": "82:95",
-     "opponent": "Hapoel Beer Sheva",
+     "score": "85:92",
+     "opponent": "Cluj-Napoca",
      "venue": "A",
-     "date": "11.10. 15:30",
-     "pf": 95,
-     "pa": 82
+     "date": "11.10. 10:00",
+     "pf": 92,
+     "pa": 85
+    },
+    {
+     "wl": "W",
+     "score": "70:85",
+     "opponent": "Perspektiva Ilirija",
+     "venue": "A",
+     "date": "04.10. 18:00",
+     "pf": 85,
+     "pa": 70
     }
    ],
    "next": {
-    "date": "25.10. 18:55",
-    "opponent": "Hapoel Jerusalem"
+    "date": "24.10. 16:00",
+    "opponent": "KK Bosna"
    },
    "note": ""
   },
@@ -533,77 +604,6 @@
    "next": {
     "date": "25.10. 15:00",
     "opponent": "Olimpia Milano"
-   },
-   "note": ""
-  },
-  {
-   "name": "Dubai",
-   "logo": "logos/8f361860857d.png",
-   "league": "Adrijos lyga",
-   "league_logo": "logos/4ecaeb496585.png",
-   "rank": 2,
-   "record": "3-0",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "108:90",
-     "opponent": "Studentski Centar",
-     "venue": "H",
-     "date": "19.10. 15:30",
-     "pf": 108,
-     "pa": 90
-    },
-    {
-     "wl": "W",
-     "score": "85:92",
-     "opponent": "Cluj-Napoca",
-     "venue": "A",
-     "date": "11.10. 10:00",
-     "pf": 92,
-     "pa": 85
-    },
-    {
-     "wl": "W",
-     "score": "70:85",
-     "opponent": "Perspektiva Ilirija",
-     "venue": "A",
-     "date": "04.10. 18:00",
-     "pf": 85,
-     "pa": 70
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "108:90",
-     "opponent": "Studentski Centar",
-     "venue": "H",
-     "date": "19.10. 15:30",
-     "pf": 108,
-     "pa": 90
-    },
-    {
-     "wl": "W",
-     "score": "85:92",
-     "opponent": "Cluj-Napoca",
-     "venue": "A",
-     "date": "11.10. 10:00",
-     "pf": 92,
-     "pa": 85
-    },
-    {
-     "wl": "W",
-     "score": "70:85",
-     "opponent": "Perspektiva Ilirija",
-     "venue": "A",
-     "date": "04.10. 18:00",
-     "pf": 85,
-     "pa": 70
-    }
-   ],
-   "next": {
-    "date": "24.10. 16:00",
-    "opponent": "KK Bosna"
    },
    "note": ""
   },
