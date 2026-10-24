@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-10-24 15:16",
+ "updated": "2026-10-24 18:23",
  "comp_logo": "logos/a4426d3c0e5a.png",
  "teams": [
   {
@@ -8,9 +8,18 @@
    "logo": "logos/9c75fb783005.png",
    "league": "Basket League",
    "league_logo": "logos/d618cd530704.png",
-   "rank": 8,
-   "record": "3-0",
+   "rank": 4,
+   "record": "4-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "78:64",
+     "opponent": "AS Karditsas",
+     "venue": "H",
+     "date": "24.10. 16:00",
+     "pf": 78,
+     "pa": 64
+    },
     {
      "wl": "W",
      "score": "95:75",
@@ -42,6 +51,15 @@
    "games": [
     {
      "wl": "W",
+     "score": "78:64",
+     "opponent": "AS Karditsas",
+     "venue": "H",
+     "date": "24.10. 16:00",
+     "pf": 78,
+     "pa": 64
+    },
+    {
+     "wl": "W",
      "score": "95:75",
      "opponent": "Peristeri",
      "venue": "H",
@@ -69,8 +87,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 16:00",
-    "opponent": "AS Karditsas"
+    "date": "01.11. 15:15",
+    "opponent": "Aris"
    },
    "note": ""
   },
@@ -257,7 +275,7 @@
    "logo": "logos/a8e763b6b424.png",
    "league": "Basket League",
    "league_logo": "logos/d618cd530704.png",
-   "rank": 7,
+   "rank": 10,
    "record": "3-0",
    "last5": [
     {
@@ -381,9 +399,18 @@
    "logo": "logos/8f361860857d.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/4ecaeb496585.png",
-   "rank": 2,
-   "record": "3-0",
+   "rank": 1,
+   "record": "4-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "83:93",
+     "opponent": "KK Bosna",
+     "venue": "A",
+     "date": "24.10. 16:00",
+     "pf": 93,
+     "pa": 83
+    },
     {
      "wl": "W",
      "score": "108:90",
@@ -415,6 +442,15 @@
    "games": [
     {
      "wl": "W",
+     "score": "83:93",
+     "opponent": "KK Bosna",
+     "venue": "A",
+     "date": "24.10. 16:00",
+     "pf": 93,
+     "pa": 83
+    },
+    {
+     "wl": "W",
      "score": "108:90",
      "opponent": "Studentski Centar",
      "venue": "H",
@@ -442,8 +478,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 16:00",
-    "opponent": "KK Bosna"
+    "date": "02.11. 15:30",
+    "opponent": "Zadar"
    },
    "note": ""
   },
@@ -541,9 +577,18 @@
    "logo": "logos/69a25cbc4b87.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/4ecaeb496585.png",
-   "rank": 5,
-   "record": "2-1",
+   "rank": 1,
+   "record": "3-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "80:81",
+     "opponent": "Igokea",
+     "venue": "A",
+     "date": "24.10. 16:00",
+     "pf": 81,
+     "pa": 80
+    },
     {
      "wl": "W",
      "score": "78:97",
@@ -575,6 +620,15 @@
    "games": [
     {
      "wl": "W",
+     "score": "80:81",
+     "opponent": "Igokea",
+     "venue": "A",
+     "date": "24.10. 16:00",
+     "pf": 81,
+     "pa": 80
+    },
+    {
+     "wl": "W",
      "score": "78:97",
      "opponent": "KK Krka Novo mesto",
      "venue": "A",
@@ -602,8 +656,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 16:00",
-    "opponent": "Igokea"
+    "date": "01.11. 12:00",
+    "opponent": "Siroki Brijeg"
    },
    "note": ""
   },
@@ -612,7 +666,7 @@
    "logo": "logos/1bb9853748d7.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 10,
+   "rank": 11,
    "record": "2-2",
    "last5": [
     {
@@ -790,7 +844,7 @@
    "logo": "logos/b85eb70fe82f.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/4ecaeb496585.png",
-   "rank": 1,
+   "rank": 2,
    "record": "3-0",
    "last5": [
     {
@@ -1145,8 +1199,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 17:30",
-    "opponent": "Bahcesehir Kol."
+    "date": "02.11. 17:30",
+    "opponent": "Cayirova"
    },
    "note": ""
   },
@@ -1198,8 +1252,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 16:25",
-    "opponent": "Maccabi Rishon"
+    "date": "01.11. 18:55",
+    "opponent": "Hapoel Tel Aviv"
    },
    "note": ""
   },
