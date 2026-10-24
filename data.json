@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-10-24 12:19",
+ "updated": "2026-10-24 15:16",
  "comp_logo": "logos/a4426d3c0e5a.png",
  "teams": [
   {
@@ -8,7 +8,7 @@
    "logo": "logos/9c75fb783005.png",
    "league": "Basket League",
    "league_logo": "logos/d618cd530704.png",
-   "rank": 7,
+   "rank": 8,
    "record": "3-0",
    "last5": [
     {
@@ -257,7 +257,7 @@
    "logo": "logos/a8e763b6b424.png",
    "league": "Basket League",
    "league_logo": "logos/d618cd530704.png",
-   "rank": 6,
+   "rank": 7,
    "record": "3-0",
    "last5": [
     {
@@ -977,7 +977,7 @@
    "logo": "logos/305eb70ac696.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 4,
+   "rank": 5,
    "record": "3-1",
    "last5": [
     {
@@ -1066,7 +1066,7 @@
    "logo": "logos/2c1420f05f20.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 13,
+   "rank": 14,
    "record": "2-2",
    "last5": [
     {
