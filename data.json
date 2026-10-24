@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-10-24 18:23",
+ "updated": "2026-10-24 21:15",
  "comp_logo": "logos/a4426d3c0e5a.png",
  "teams": [
   {
@@ -97,7 +97,7 @@
    "logo": "logos/ce0512d2b115.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 6,
+   "rank": 7,
    "record": "2-2",
    "last5": [
     {
@@ -186,7 +186,7 @@
    "logo": "logos/ee8c4a8d6a89.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 7,
+   "rank": 8,
    "record": "2-2",
    "last5": [
     {
@@ -346,7 +346,7 @@
    "logo": "logos/fb32ddc6ad65.png",
    "league": "Super League",
    "league_logo": "logos/07d3791c1460.png",
-   "rank": 3,
+   "rank": 2,
    "record": "2-0",
    "last5": [
     {
@@ -399,7 +399,7 @@
    "logo": "logos/8f361860857d.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/4ecaeb496585.png",
-   "rank": 1,
+   "rank": 2,
    "record": "4-0",
    "last5": [
     {
@@ -666,9 +666,18 @@
    "logo": "logos/1bb9853748d7.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 11,
-   "record": "2-2",
+   "rank": 5,
+   "record": "3-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "99:81",
+     "opponent": "Basket Zaragoza",
+     "venue": "H",
+     "date": "24.10. 19:00",
+     "pf": 99,
+     "pa": 81
+    },
     {
      "wl": "L",
      "score": "113:89",
@@ -708,6 +717,15 @@
    ],
    "games": [
     {
+     "wl": "W",
+     "score": "99:81",
+     "opponent": "Basket Zaragoza",
+     "venue": "H",
+     "date": "24.10. 19:00",
+     "pf": 99,
+     "pa": 81
+    },
+    {
      "wl": "L",
      "score": "113:89",
      "opponent": "Joventut Badalona",
@@ -745,8 +763,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 19:00",
-    "opponent": "Basket Zaragoza"
+    "date": "01.11. 18:00",
+    "opponent": "Unicaja"
    },
    "note": ""
   },
@@ -844,9 +862,18 @@
    "logo": "logos/b85eb70fe82f.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/4ecaeb496585.png",
-   "rank": 2,
-   "record": "3-0",
+   "rank": 1,
+   "record": "4-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "80:82",
+     "opponent": "Spartak Subotica",
+     "venue": "A",
+     "date": "24.10. 18:30",
+     "pf": 82,
+     "pa": 80
+    },
     {
      "wl": "W",
      "score": "84:89",
@@ -878,6 +905,15 @@
    "games": [
     {
      "wl": "W",
+     "score": "80:82",
+     "opponent": "Spartak Subotica",
+     "venue": "A",
+     "date": "24.10. 18:30",
+     "pf": 82,
+     "pa": 80
+    },
+    {
+     "wl": "W",
      "score": "84:89",
      "opponent": "KK Bosna",
      "venue": "A",
@@ -905,8 +941,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 18:30",
-    "opponent": "Spartak Subotica"
+    "date": "02.11. 19:30",
+    "opponent": "Cluj-Napoca"
    },
    "note": ""
   },
@@ -1120,9 +1156,18 @@
    "logo": "logos/2c1420f05f20.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 14,
-   "record": "2-2",
+   "rank": 6,
+   "record": "2-3",
    "last5": [
+    {
+     "wl": "L",
+     "score": "100:96",
+     "opponent": "Bahcesehir Kol.",
+     "venue": "A",
+     "date": "24.10. 17:30",
+     "pf": 96,
+     "pa": 100
+    },
     {
      "wl": "W",
      "score": "83:80",
@@ -1161,6 +1206,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "100:96",
+     "opponent": "Bahcesehir Kol.",
+     "venue": "A",
+     "date": "24.10. 17:30",
+     "pf": 96,
+     "pa": 100
+    },
     {
      "wl": "W",
      "score": "83:80",
@@ -1209,9 +1263,18 @@
    "logo": "logos/06951b3cfab7.png",
    "league": "Super League",
    "league_logo": "logos/07d3791c1460.png",
-   "rank": 1,
-   "record": "2-0",
+   "rank": 4,
+   "record": "2-1",
    "last5": [
+    {
+     "wl": "L",
+     "score": "93:90",
+     "opponent": "Maccabi Rishon",
+     "venue": "A",
+     "date": "24.10. 16:25",
+     "pf": 90,
+     "pa": 93
+    },
     {
      "wl": "W",
      "score": "116:89",
@@ -1232,6 +1295,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "93:90",
+     "opponent": "Maccabi Rishon",
+     "venue": "A",
+     "date": "24.10. 16:25",
+     "pf": 90,
+     "pa": 93
+    },
     {
      "wl": "W",
      "score": "116:89",
@@ -1262,7 +1334,7 @@
    "logo": "logos/50c0ab79aba2.png",
    "league": "BBL",
    "league_logo": "logos/5408e2e1f9f8.png",
-   "rank": 1,
+   "rank": 2,
    "record": "4-0",
    "last5": [
     {
