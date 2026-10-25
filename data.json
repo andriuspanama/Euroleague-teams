@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-10-25 00:14",
+ "updated": "2026-10-25 03:20",
  "comp_logo": "logos/a4426d3c0e5a.png",
  "teams": [
   {
@@ -96,7 +96,7 @@
    "name": "Fenerbahce",
    "logo": "logos/ce0512d2b115.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 7,
    "record": "2-2",
    "last5": [
@@ -185,7 +185,7 @@
    "name": "Valencia",
    "logo": "logos/ee8c4a8d6a89.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 8,
    "record": "2-2",
    "last5": [
@@ -345,7 +345,7 @@
    "name": "Hapoel Tel Aviv",
    "logo": "logos/fb32ddc6ad65.png",
    "league": "Super League",
-   "league_logo": "logos/07d3791c1460.png",
+   "league_logo": "logos/7af634241793.png",
    "rank": 2,
    "record": "2-0",
    "last5": [
@@ -398,7 +398,7 @@
    "name": "Dubai",
    "logo": "logos/8f361860857d.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/4ecaeb496585.png",
+   "league_logo": "logos/9cba694f5f88.png",
    "rank": 2,
    "record": "4-0",
    "last5": [
@@ -487,7 +487,7 @@
    "name": "Real Madrid",
    "logo": "logos/f377a388f5c4.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 1,
    "record": "4-0",
    "last5": [
@@ -576,7 +576,7 @@
    "name": "Crvena Zvezda Meridianbet",
    "logo": "logos/69a25cbc4b87.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/4ecaeb496585.png",
+   "league_logo": "logos/9cba694f5f88.png",
    "rank": 1,
    "record": "3-1",
    "last5": [
@@ -665,7 +665,7 @@
    "name": "Barcelona",
    "logo": "logos/1bb9853748d7.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 5,
    "record": "3-2",
    "last5": [
@@ -772,7 +772,7 @@
    "name": "Virtus Bologna",
    "logo": "logos/a521f88d4d91.png",
    "league": "Lega A",
-   "league_logo": "logos/b55c66fda764.png",
+   "league_logo": "logos/a535f34abeaf.png",
    "rank": 1,
    "record": "4-0",
    "last5": [
@@ -861,7 +861,7 @@
    "name": "Partizan Mozzart Bet",
    "logo": "logos/b85eb70fe82f.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/4ecaeb496585.png",
+   "league_logo": "logos/9cba694f5f88.png",
    "rank": 1,
    "record": "4-0",
    "last5": [
@@ -941,7 +941,7 @@
     }
    ],
    "next": {
-    "date": "02.11. 19:30",
+    "date": "02.11. 12:00",
     "opponent": "Cluj-Napoca"
    },
    "note": ""
@@ -950,7 +950,7 @@
    "name": "Zalgiris Kaunas",
    "logo": "logos/207f4b8cf1bd.png",
    "league": "LKL",
-   "league_logo": "logos/e5d4a9d7c1bb.png",
+   "league_logo": "logos/c5eddc9adb50.png",
    "rank": 1,
    "record": "6-0",
    "last5": [
@@ -1066,7 +1066,7 @@
    "name": "Anadolu Efes",
    "logo": "logos/305eb70ac696.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 5,
    "record": "3-1",
    "last5": [
@@ -1155,7 +1155,7 @@
    "name": "Besiktas",
    "logo": "logos/2c1420f05f20.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 6,
    "record": "2-3",
    "last5": [
@@ -1262,7 +1262,7 @@
    "name": "Maccabi Tel Aviv",
    "logo": "logos/06951b3cfab7.png",
    "league": "Super League",
-   "league_logo": "logos/07d3791c1460.png",
+   "league_logo": "logos/7af634241793.png",
    "rank": 4,
    "record": "2-1",
    "last5": [
@@ -1333,7 +1333,7 @@
    "name": "Bayern",
    "logo": "logos/50c0ab79aba2.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 2,
    "record": "4-0",
    "last5": [
@@ -1422,7 +1422,7 @@
    "name": "Lyon-Villeurbanne",
    "logo": "logos/59cea8016204.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 2,
    "record": "4-0",
    "last5": [
@@ -1511,7 +1511,7 @@
    "name": "Paris",
    "logo": "logos/32485d516fe0.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 3,
    "record": "4-0",
    "last5": [
@@ -1600,7 +1600,7 @@
    "name": "Olimpia Milano",
    "logo": "logos/8ba53e5cb6fd.png",
    "league": "Lega A",
-   "league_logo": "logos/b55c66fda764.png",
+   "league_logo": "logos/a535f34abeaf.png",
    "rank": 2,
    "record": "3-1",
    "last5": [
@@ -1689,7 +1689,7 @@
    "name": "Baskonia",
    "logo": "logos/98ab31536eee.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 2,
    "record": "3-1",
    "last5": [
