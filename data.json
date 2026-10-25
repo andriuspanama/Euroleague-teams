@@ -1,14 +1,14 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-10-25 12:18",
- "comp_logo": "logos/a4426d3c0e5a.png",
+ "updated": "2026-10-25 15:16",
+ "comp_logo": "logos/5023133ad812.png",
  "teams": [
   {
    "name": "Panathinaikos",
    "logo": "logos/9c75fb783005.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 4,
+   "rank": 5,
    "record": "4-0",
    "last5": [
     {
@@ -97,9 +97,18 @@
    "logo": "logos/ce0512d2b115.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 10,
-   "record": "2-2",
+   "rank": 5,
+   "record": "3-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "72:97",
+     "opponent": "Karsiyaka",
+     "venue": "A",
+     "date": "25.10. 12:30",
+     "pf": 97,
+     "pa": 72
+    },
     {
      "wl": "L",
      "score": "77:82",
@@ -139,6 +148,15 @@
    ],
    "games": [
     {
+     "wl": "W",
+     "score": "72:97",
+     "opponent": "Karsiyaka",
+     "venue": "A",
+     "date": "25.10. 12:30",
+     "pf": 97,
+     "pa": 72
+    },
+    {
      "wl": "L",
      "score": "77:82",
      "opponent": "Petkim Spor",
@@ -176,8 +194,8 @@
     }
    ],
    "next": {
-    "date": "25.10. 12:30",
-    "opponent": "Karsiyaka"
+    "date": "01.11. 12:30",
+    "opponent": "Tofas"
    },
    "note": ""
   },
@@ -186,7 +204,7 @@
    "logo": "logos/ee8c4a8d6a89.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 8,
+   "rank": 10,
    "record": "2-2",
    "last5": [
     {
@@ -275,9 +293,18 @@
    "logo": "logos/a8e763b6b424.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 10,
-   "record": "3-0",
+   "rank": 4,
+   "record": "4-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "45:85",
+     "opponent": "Promitheas",
+     "venue": "A",
+     "date": "25.10. 11:00",
+     "pf": 85,
+     "pa": 45
+    },
     {
      "wl": "W",
      "score": "68:79",
@@ -307,6 +334,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "45:85",
+     "opponent": "Promitheas",
+     "venue": "A",
+     "date": "25.10. 11:00",
+     "pf": 85,
+     "pa": 45
+    },
     {
      "wl": "W",
      "score": "68:79",
@@ -852,8 +888,8 @@
     }
    ],
    "next": {
-    "date": "25.10. 15:00",
-    "opponent": "Olimpia Milano"
+    "date": "02.11. 19:00",
+    "opponent": "Trieste"
    },
    "note": ""
   },
@@ -1057,8 +1093,8 @@
     }
    ],
    "next": {
-    "date": "25.10. 14:50",
-    "opponent": "Jonava"
+    "date": "02.11. 14:50",
+    "opponent": "Rytas"
    },
    "note": ""
   },
@@ -1174,7 +1210,7 @@
    "logo": "logos/2c1420f05f20.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 7,
+   "rank": 9,
    "record": "2-3",
    "last5": [
     {
@@ -1351,7 +1387,7 @@
    "name": "Bayern",
    "logo": "logos/50c0ab79aba2.png",
    "league": "BBL",
-   "league_logo": "logos/98572a4b17ba.png",
+   "league_logo": "logos/5408e2e1f9f8.png",
    "rank": 2,
    "record": "4-0",
    "last5": [
@@ -1609,8 +1645,8 @@
     }
    ],
    "next": {
-    "date": "25.10. 15:00",
-    "opponent": "Roanne"
+    "date": "01.11. 18:00",
+    "opponent": "Chalon/Saone"
    },
    "note": ""
   },
@@ -1619,7 +1655,7 @@
    "logo": "logos/8ba53e5cb6fd.png",
    "league": "Lega A",
    "league_logo": "logos/a535f34abeaf.png",
-   "rank": 2,
+   "rank": 3,
    "record": "3-1",
    "last5": [
     {
@@ -1698,8 +1734,8 @@
     }
    ],
    "next": {
-    "date": "25.10. 15:00",
-    "opponent": "Virtus Bologna"
+    "date": "02.11. 19:30",
+    "opponent": "Cantu"
    },
    "note": ""
   },
@@ -1708,7 +1744,7 @@
    "logo": "logos/98ab31536eee.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 2,
+   "rank": 3,
    "record": "3-1",
    "last5": [
     {
