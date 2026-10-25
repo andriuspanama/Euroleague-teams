@@ -1,13 +1,13 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-10-24 21:15",
+ "updated": "2026-10-25 00:14",
  "comp_logo": "logos/a4426d3c0e5a.png",
  "teams": [
   {
    "name": "Panathinaikos",
    "logo": "logos/9c75fb783005.png",
    "league": "Basket League",
-   "league_logo": "logos/d618cd530704.png",
+   "league_logo": "logos/21f5bcd543ba.png",
    "rank": 4,
    "record": "4-0",
    "last5": [
@@ -274,7 +274,7 @@
    "name": "Olympiacos",
    "logo": "logos/a8e763b6b424.png",
    "league": "Basket League",
-   "league_logo": "logos/d618cd530704.png",
+   "league_logo": "logos/21f5bcd543ba.png",
    "rank": 10,
    "record": "3-0",
    "last5": [
