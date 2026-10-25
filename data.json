@@ -1,7 +1,7 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-10-25 18:16",
- "comp_logo": "logos/5023133ad812.png",
+ "updated": "2026-10-25 21:15",
+ "comp_logo": "logos/a4426d3c0e5a.png",
  "teams": [
   {
    "name": "Panathinaikos",
@@ -400,9 +400,18 @@
    "logo": "logos/fb32ddc6ad65.png",
    "league": "Super League",
    "league_logo": "logos/7af634241793.png",
-   "rank": 2,
-   "record": "2-0",
+   "rank": 4,
+   "record": "2-1",
    "last5": [
+    {
+     "wl": "L",
+     "score": "60:70",
+     "opponent": "Hapoel Jerusalem",
+     "venue": "H",
+     "date": "25.10. 18:55",
+     "pf": 60,
+     "pa": 70
+    },
     {
      "wl": "W",
      "score": "81:67",
@@ -424,6 +433,15 @@
    ],
    "games": [
     {
+     "wl": "L",
+     "score": "60:70",
+     "opponent": "Hapoel Jerusalem",
+     "venue": "H",
+     "date": "25.10. 18:55",
+     "pf": 60,
+     "pa": 70
+    },
+    {
      "wl": "W",
      "score": "81:67",
      "opponent": "Maccabi Ashdod",
@@ -443,8 +461,8 @@
     }
    ],
    "next": {
-    "date": "25.10. 18:55",
-    "opponent": "Hapoel Jerusalem"
+    "date": "01.11. 18:55",
+    "opponent": "Maccabi Tel Aviv"
    },
    "note": ""
   },
@@ -543,8 +561,17 @@
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
    "rank": 1,
-   "record": "4-0",
+   "record": "5-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "86:122",
+     "opponent": "Forca Lleida",
+     "venue": "A",
+     "date": "25.10. 18:00",
+     "pf": 122,
+     "pa": 86
+    },
     {
      "wl": "W",
      "score": "119:84",
@@ -583,6 +610,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "86:122",
+     "opponent": "Forca Lleida",
+     "venue": "A",
+     "date": "25.10. 18:00",
+     "pf": 122,
+     "pa": 86
+    },
     {
      "wl": "W",
      "score": "119:84",
@@ -720,7 +756,7 @@
    "logo": "logos/1bb9853748d7.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 6,
+   "rank": 7,
    "record": "3-2",
    "last5": [
     {
@@ -1255,7 +1291,7 @@
    "logo": "logos/2c1420f05f20.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 11,
+   "rank": 9,
    "record": "2-3",
    "last5": [
     {
@@ -1362,7 +1398,7 @@
    "logo": "logos/06951b3cfab7.png",
    "league": "Super League",
    "league_logo": "logos/7af634241793.png",
-   "rank": 4,
+   "rank": 3,
    "record": "2-1",
    "last5": [
     {
@@ -1432,7 +1468,7 @@
    "name": "Bayern",
    "logo": "logos/50c0ab79aba2.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 1,
    "record": "5-0",
    "last5": [
@@ -1539,7 +1575,7 @@
    "name": "Lyon-Villeurbanne",
    "logo": "logos/59cea8016204.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 3,
    "record": "5-0",
    "last5": [
@@ -1646,7 +1682,7 @@
    "name": "Paris",
    "logo": "logos/32485d516fe0.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 2,
    "record": "5-0",
    "last5": [
@@ -1754,7 +1790,7 @@
    "logo": "logos/8ba53e5cb6fd.png",
    "league": "Lega A",
    "league_logo": "logos/a535f34abeaf.png",
-   "rank": 6,
+   "rank": 9,
    "record": "3-2",
    "last5": [
     {
