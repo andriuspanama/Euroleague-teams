@@ -1,7 +1,7 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-10-25 09:18",
- "comp_logo": "logos/5023133ad812.png",
+ "updated": "2026-10-25 12:18",
+ "comp_logo": "logos/a4426d3c0e5a.png",
  "teams": [
   {
    "name": "Panathinaikos",
@@ -97,7 +97,7 @@
    "logo": "logos/ce0512d2b115.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 7,
+   "rank": 10,
    "record": "2-2",
    "last5": [
     {
@@ -336,8 +336,8 @@
     }
    ],
    "next": {
-    "date": "25.10. 11:00",
-    "opponent": "Promitheas"
+    "date": "01.11. 11:00",
+    "opponent": "Peristeri"
    },
    "note": ""
   },
@@ -1067,9 +1067,18 @@
    "logo": "logos/305eb70ac696.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 5,
-   "record": "3-1",
+   "rank": 3,
+   "record": "4-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "93:77",
+     "opponent": "Korfez Basket",
+     "venue": "H",
+     "date": "25.10. 10:00",
+     "pf": 93,
+     "pa": 77
+    },
     {
      "wl": "L",
      "score": "73:70",
@@ -1109,6 +1118,15 @@
    ],
    "games": [
     {
+     "wl": "W",
+     "score": "93:77",
+     "opponent": "Korfez Basket",
+     "venue": "H",
+     "date": "25.10. 10:00",
+     "pf": 93,
+     "pa": 77
+    },
+    {
      "wl": "L",
      "score": "73:70",
      "opponent": "Esenler Erokspor",
@@ -1146,8 +1164,8 @@
     }
    ],
    "next": {
-    "date": "25.10. 10:00",
-    "opponent": "Korfez Basket"
+    "date": "02.11. 15:00",
+    "opponent": "Petkim Spor"
    },
    "note": ""
   },
@@ -1156,7 +1174,7 @@
    "logo": "logos/2c1420f05f20.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 6,
+   "rank": 7,
    "record": "2-3",
    "last5": [
     {
