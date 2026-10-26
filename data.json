@@ -1,7 +1,7 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-10-26 18:28",
- "comp_logo": "logos/a4426d3c0e5a.png",
+ "updated": "2026-10-26 21:22",
+ "comp_logo": "logos/5023133ad812.png",
  "teams": [
   {
    "name": "Panathinaikos",
@@ -96,7 +96,7 @@
    "name": "Fenerbahce",
    "logo": "logos/ce0512d2b115.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 6,
    "record": "3-2",
    "last5": [
@@ -400,7 +400,7 @@
    "logo": "logos/fb32ddc6ad65.png",
    "league": "Super League",
    "league_logo": "logos/7af634241793.png",
-   "rank": 4,
+   "rank": 3,
    "record": "2-1",
    "last5": [
     {
@@ -1183,7 +1183,7 @@
    "name": "Anadolu Efes",
    "logo": "logos/305eb70ac696.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 3,
    "record": "4-1",
    "last5": [
@@ -1290,7 +1290,7 @@
    "name": "Besiktas",
    "logo": "logos/2c1420f05f20.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 9,
    "record": "2-3",
    "last5": [
@@ -1398,7 +1398,7 @@
    "logo": "logos/06951b3cfab7.png",
    "league": "Super League",
    "league_logo": "logos/7af634241793.png",
-   "rank": 3,
+   "rank": 2,
    "record": "2-1",
    "last5": [
     {
