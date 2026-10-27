@@ -1,7 +1,7 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-10-27 12:28",
- "comp_logo": "logos/5023133ad812.png",
+ "updated": "2026-10-27 15:37",
+ "comp_logo": "logos/a4426d3c0e5a.png",
  "teams": [
   {
    "name": "Panathinaikos",
@@ -87,7 +87,7 @@
     }
    ],
    "next": {
-    "date": "01.11. 15:15",
+    "date": "01.11. 15:00",
     "opponent": "Aris"
    },
    "note": ""
@@ -470,7 +470,7 @@
    "name": "Dubai",
    "logo": "logos/8f361860857d.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/4ecaeb496585.png",
+   "league_logo": "logos/9cba694f5f88.png",
    "rank": 2,
    "record": "4-0",
    "last5": [
@@ -666,7 +666,7 @@
    "name": "Crvena Zvezda Meridianbet",
    "logo": "logos/69a25cbc4b87.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/4ecaeb496585.png",
+   "league_logo": "logos/9cba694f5f88.png",
    "rank": 1,
    "record": "3-1",
    "last5": [
@@ -969,7 +969,7 @@
    "name": "Partizan Mozzart Bet",
    "logo": "logos/b85eb70fe82f.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/4ecaeb496585.png",
+   "league_logo": "logos/9cba694f5f88.png",
    "rank": 1,
    "record": "4-0",
    "last5": [
