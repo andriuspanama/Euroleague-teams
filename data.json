@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-10-27 21:24",
+ "updated": "2026-10-28 00:28",
  "comp_logo": "logos/5023133ad812.png",
  "teams": [
   {
@@ -89,6 +89,113 @@
    "next": {
     "date": "01.11. 15:00",
     "opponent": "Aris"
+   },
+   "note": ""
+  },
+  {
+   "name": "Valencia",
+   "logo": "logos/ee8c4a8d6a89.png",
+   "league": "ACB",
+   "league_logo": "logos/cb9f1e398563.png",
+   "rank": 4,
+   "record": "3-2",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "84:75",
+     "opponent": "Baskonia",
+     "venue": "H",
+     "date": "25.10. 16:00",
+     "pf": 84,
+     "pa": 75
+    },
+    {
+     "wl": "W",
+     "score": "116:93",
+     "opponent": "Murcia",
+     "venue": "H",
+     "date": "18.10. 15:00",
+     "pf": 116,
+     "pa": 93
+    },
+    {
+     "wl": "L",
+     "score": "89:86",
+     "opponent": "Barcelona",
+     "venue": "A",
+     "date": "11.10. 17:00",
+     "pf": 86,
+     "pa": 89
+    },
+    {
+     "wl": "W",
+     "score": "82:97",
+     "opponent": "Basket Zaragoza",
+     "venue": "A",
+     "date": "04.10. 15:00",
+     "pf": 97,
+     "pa": 82
+    },
+    {
+     "wl": "L",
+     "score": "100:105",
+     "opponent": "Forca Lleida",
+     "venue": "H",
+     "date": "27.09. 16:00",
+     "pf": 100,
+     "pa": 105
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "84:75",
+     "opponent": "Baskonia",
+     "venue": "H",
+     "date": "25.10. 16:00",
+     "pf": 84,
+     "pa": 75
+    },
+    {
+     "wl": "W",
+     "score": "116:93",
+     "opponent": "Murcia",
+     "venue": "H",
+     "date": "18.10. 15:00",
+     "pf": 116,
+     "pa": 93
+    },
+    {
+     "wl": "L",
+     "score": "89:86",
+     "opponent": "Barcelona",
+     "venue": "A",
+     "date": "11.10. 17:00",
+     "pf": 86,
+     "pa": 89
+    },
+    {
+     "wl": "W",
+     "score": "82:97",
+     "opponent": "Basket Zaragoza",
+     "venue": "A",
+     "date": "04.10. 15:00",
+     "pf": 97,
+     "pa": 82
+    },
+    {
+     "wl": "L",
+     "score": "100:105",
+     "opponent": "Forca Lleida",
+     "venue": "H",
+     "date": "27.09. 16:00",
+     "pf": 100,
+     "pa": 105
+    }
+   ],
+   "next": {
+    "date": "01.11. 17:00",
+    "opponent": "MoraBanc Andorra"
    },
    "note": ""
   },
@@ -196,113 +303,6 @@
    "next": {
     "date": "01.11. 12:30",
     "opponent": "Tofas"
-   },
-   "note": ""
-  },
-  {
-   "name": "Valencia",
-   "logo": "logos/ee8c4a8d6a89.png",
-   "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 4,
-   "record": "3-2",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "84:75",
-     "opponent": "Baskonia",
-     "venue": "H",
-     "date": "25.10. 16:00",
-     "pf": 84,
-     "pa": 75
-    },
-    {
-     "wl": "W",
-     "score": "116:93",
-     "opponent": "Murcia",
-     "venue": "H",
-     "date": "18.10. 15:00",
-     "pf": 116,
-     "pa": 93
-    },
-    {
-     "wl": "L",
-     "score": "89:86",
-     "opponent": "Barcelona",
-     "venue": "A",
-     "date": "11.10. 17:00",
-     "pf": 86,
-     "pa": 89
-    },
-    {
-     "wl": "W",
-     "score": "82:97",
-     "opponent": "Basket Zaragoza",
-     "venue": "A",
-     "date": "04.10. 15:00",
-     "pf": 97,
-     "pa": 82
-    },
-    {
-     "wl": "L",
-     "score": "100:105",
-     "opponent": "Forca Lleida",
-     "venue": "H",
-     "date": "27.09. 16:00",
-     "pf": 100,
-     "pa": 105
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "84:75",
-     "opponent": "Baskonia",
-     "venue": "H",
-     "date": "25.10. 16:00",
-     "pf": 84,
-     "pa": 75
-    },
-    {
-     "wl": "W",
-     "score": "116:93",
-     "opponent": "Murcia",
-     "venue": "H",
-     "date": "18.10. 15:00",
-     "pf": 116,
-     "pa": 93
-    },
-    {
-     "wl": "L",
-     "score": "89:86",
-     "opponent": "Barcelona",
-     "venue": "A",
-     "date": "11.10. 17:00",
-     "pf": 86,
-     "pa": 89
-    },
-    {
-     "wl": "W",
-     "score": "82:97",
-     "opponent": "Basket Zaragoza",
-     "venue": "A",
-     "date": "04.10. 15:00",
-     "pf": 97,
-     "pa": 82
-    },
-    {
-     "wl": "L",
-     "score": "100:105",
-     "opponent": "Forca Lleida",
-     "venue": "H",
-     "date": "27.09. 16:00",
-     "pf": 100,
-     "pa": 105
-    }
-   ],
-   "next": {
-    "date": "01.11. 17:00",
-    "opponent": "MoraBanc Andorra"
    },
    "note": ""
   },
@@ -467,6 +467,113 @@
    "note": ""
   },
   {
+   "name": "Real Madrid",
+   "logo": "logos/f377a388f5c4.png",
+   "league": "ACB",
+   "league_logo": "logos/cb9f1e398563.png",
+   "rank": 1,
+   "record": "5-0",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "86:122",
+     "opponent": "Forca Lleida",
+     "venue": "A",
+     "date": "25.10. 18:00",
+     "pf": 122,
+     "pa": 86
+    },
+    {
+     "wl": "W",
+     "score": "119:84",
+     "opponent": "Bilbao",
+     "venue": "H",
+     "date": "18.10. 10:30",
+     "pf": 119,
+     "pa": 84
+    },
+    {
+     "wl": "W",
+     "score": "120:83",
+     "opponent": "Manresa",
+     "venue": "H",
+     "date": "11.10. 10:00",
+     "pf": 120,
+     "pa": 83
+    },
+    {
+     "wl": "W",
+     "score": "107:114",
+     "opponent": "Obradoiro CAB",
+     "venue": "A",
+     "date": "04.10. 10:30",
+     "pf": 114,
+     "pa": 107
+    },
+    {
+     "wl": "W",
+     "score": "89:87",
+     "opponent": "Unicaja",
+     "venue": "H",
+     "date": "27.09. 17:00",
+     "pf": 89,
+     "pa": 87
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "86:122",
+     "opponent": "Forca Lleida",
+     "venue": "A",
+     "date": "25.10. 18:00",
+     "pf": 122,
+     "pa": 86
+    },
+    {
+     "wl": "W",
+     "score": "119:84",
+     "opponent": "Bilbao",
+     "venue": "H",
+     "date": "18.10. 10:30",
+     "pf": 119,
+     "pa": 84
+    },
+    {
+     "wl": "W",
+     "score": "120:83",
+     "opponent": "Manresa",
+     "venue": "H",
+     "date": "11.10. 10:00",
+     "pf": 120,
+     "pa": 83
+    },
+    {
+     "wl": "W",
+     "score": "107:114",
+     "opponent": "Obradoiro CAB",
+     "venue": "A",
+     "date": "04.10. 10:30",
+     "pf": 114,
+     "pa": 107
+    },
+    {
+     "wl": "W",
+     "score": "89:87",
+     "opponent": "Unicaja",
+     "venue": "H",
+     "date": "27.09. 17:00",
+     "pf": 89,
+     "pa": 87
+    }
+   ],
+   "next": {
+    "date": "01.11. 11:30",
+    "opponent": "San Pablo Burgos"
+   },
+   "note": ""
+  },
+  {
    "name": "Crvena Zvezda Meridianbet",
    "logo": "logos/69a25cbc4b87.png",
    "league": "Adrijos lyga",
@@ -559,7 +666,7 @@
    "name": "Barcelona",
    "logo": "logos/1bb9853748d7.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 7,
    "record": "3-2",
    "last5": [
@@ -748,113 +855,6 @@
    "next": {
     "date": "02.11. 15:30",
     "opponent": "Zadar"
-   },
-   "note": ""
-  },
-  {
-   "name": "Real Madrid",
-   "logo": "logos/f377a388f5c4.png",
-   "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 1,
-   "record": "5-0",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "86:122",
-     "opponent": "Forca Lleida",
-     "venue": "A",
-     "date": "25.10. 18:00",
-     "pf": 122,
-     "pa": 86
-    },
-    {
-     "wl": "W",
-     "score": "119:84",
-     "opponent": "Bilbao",
-     "venue": "H",
-     "date": "18.10. 10:30",
-     "pf": 119,
-     "pa": 84
-    },
-    {
-     "wl": "W",
-     "score": "120:83",
-     "opponent": "Manresa",
-     "venue": "H",
-     "date": "11.10. 10:00",
-     "pf": 120,
-     "pa": 83
-    },
-    {
-     "wl": "W",
-     "score": "107:114",
-     "opponent": "Obradoiro CAB",
-     "venue": "A",
-     "date": "04.10. 10:30",
-     "pf": 114,
-     "pa": 107
-    },
-    {
-     "wl": "W",
-     "score": "89:87",
-     "opponent": "Unicaja",
-     "venue": "H",
-     "date": "27.09. 17:00",
-     "pf": 89,
-     "pa": 87
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "86:122",
-     "opponent": "Forca Lleida",
-     "venue": "A",
-     "date": "25.10. 18:00",
-     "pf": 122,
-     "pa": 86
-    },
-    {
-     "wl": "W",
-     "score": "119:84",
-     "opponent": "Bilbao",
-     "venue": "H",
-     "date": "18.10. 10:30",
-     "pf": 119,
-     "pa": 84
-    },
-    {
-     "wl": "W",
-     "score": "120:83",
-     "opponent": "Manresa",
-     "venue": "H",
-     "date": "11.10. 10:00",
-     "pf": 120,
-     "pa": 83
-    },
-    {
-     "wl": "W",
-     "score": "107:114",
-     "opponent": "Obradoiro CAB",
-     "venue": "A",
-     "date": "04.10. 10:30",
-     "pf": 114,
-     "pa": 107
-    },
-    {
-     "wl": "W",
-     "score": "89:87",
-     "opponent": "Unicaja",
-     "venue": "H",
-     "date": "27.09. 17:00",
-     "pf": 89,
-     "pa": 87
-    }
-   ],
-   "next": {
-    "date": "01.11. 11:30",
-    "opponent": "San Pablo Burgos"
    },
    "note": ""
   },
@@ -1896,7 +1896,7 @@
    "name": "Baskonia",
    "logo": "logos/98ab31536eee.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 3,
    "record": "3-2",
    "last5": [
