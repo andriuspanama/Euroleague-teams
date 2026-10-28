@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-10-28 18:31",
+ "updated": "2026-10-28 21:27",
  "comp_logo": "logos/5023133ad812.png",
  "teams": [
   {
@@ -200,6 +200,77 @@
    "note": ""
   },
   {
+   "name": "Hapoel Tel Aviv",
+   "logo": "logos/fb32ddc6ad65.png",
+   "league": "Super League",
+   "league_logo": "logos/7af634241793.png",
+   "rank": 3,
+   "record": "2-1",
+   "last5": [
+    {
+     "wl": "L",
+     "score": "60:70",
+     "opponent": "Hapoel Jerusalem",
+     "venue": "H",
+     "date": "25.10. 18:55",
+     "pf": 60,
+     "pa": 70
+    },
+    {
+     "wl": "W",
+     "score": "81:67",
+     "opponent": "Maccabi Ashdod",
+     "venue": "H",
+     "date": "18.10. 15:30",
+     "pf": 81,
+     "pa": 67
+    },
+    {
+     "wl": "W",
+     "score": "82:95",
+     "opponent": "Hapoel Beer Sheva",
+     "venue": "A",
+     "date": "11.10. 15:30",
+     "pf": 95,
+     "pa": 82
+    }
+   ],
+   "games": [
+    {
+     "wl": "L",
+     "score": "60:70",
+     "opponent": "Hapoel Jerusalem",
+     "venue": "H",
+     "date": "25.10. 18:55",
+     "pf": 60,
+     "pa": 70
+    },
+    {
+     "wl": "W",
+     "score": "81:67",
+     "opponent": "Maccabi Ashdod",
+     "venue": "H",
+     "date": "18.10. 15:30",
+     "pf": 81,
+     "pa": 67
+    },
+    {
+     "wl": "W",
+     "score": "82:95",
+     "opponent": "Hapoel Beer Sheva",
+     "venue": "A",
+     "date": "11.10. 15:30",
+     "pf": 95,
+     "pa": 82
+    }
+   ],
+   "next": {
+    "date": "01.11. 18:55",
+    "opponent": "Maccabi Tel Aviv"
+   },
+   "note": ""
+  },
+  {
    "name": "Fenerbahce",
    "logo": "logos/ce0512d2b115.png",
    "league": "Super Lig",
@@ -392,77 +463,6 @@
    "next": {
     "date": "01.11. 11:00",
     "opponent": "Peristeri"
-   },
-   "note": ""
-  },
-  {
-   "name": "Hapoel Tel Aviv",
-   "logo": "logos/fb32ddc6ad65.png",
-   "league": "Super League",
-   "league_logo": "logos/7af634241793.png",
-   "rank": 3,
-   "record": "2-1",
-   "last5": [
-    {
-     "wl": "L",
-     "score": "60:70",
-     "opponent": "Hapoel Jerusalem",
-     "venue": "H",
-     "date": "25.10. 18:55",
-     "pf": 60,
-     "pa": 70
-    },
-    {
-     "wl": "W",
-     "score": "81:67",
-     "opponent": "Maccabi Ashdod",
-     "venue": "H",
-     "date": "18.10. 15:30",
-     "pf": 81,
-     "pa": 67
-    },
-    {
-     "wl": "W",
-     "score": "82:95",
-     "opponent": "Hapoel Beer Sheva",
-     "venue": "A",
-     "date": "11.10. 15:30",
-     "pf": 95,
-     "pa": 82
-    }
-   ],
-   "games": [
-    {
-     "wl": "L",
-     "score": "60:70",
-     "opponent": "Hapoel Jerusalem",
-     "venue": "H",
-     "date": "25.10. 18:55",
-     "pf": 60,
-     "pa": 70
-    },
-    {
-     "wl": "W",
-     "score": "81:67",
-     "opponent": "Maccabi Ashdod",
-     "venue": "H",
-     "date": "18.10. 15:30",
-     "pf": 81,
-     "pa": 67
-    },
-    {
-     "wl": "W",
-     "score": "82:95",
-     "opponent": "Hapoel Beer Sheva",
-     "venue": "A",
-     "date": "11.10. 15:30",
-     "pf": 95,
-     "pa": 82
-    }
-   ],
-   "next": {
-    "date": "01.11. 18:55",
-    "opponent": "Maccabi Tel Aviv"
    },
    "note": ""
   },
@@ -1058,7 +1058,7 @@
    "name": "Zalgiris Kaunas",
    "logo": "logos/207f4b8cf1bd.png",
    "league": "LKL",
-   "league_logo": "logos/c5eddc9adb50.png",
+   "league_logo": "logos/e5d4a9d7c1bb.png",
    "rank": 1,
    "record": "7-0",
    "last5": [
@@ -1180,113 +1180,6 @@
    "note": ""
   },
   {
-   "name": "Anadolu Efes",
-   "logo": "logos/305eb70ac696.png",
-   "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
-   "rank": 3,
-   "record": "4-1",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "93:77",
-     "opponent": "Korfez Basket",
-     "venue": "H",
-     "date": "25.10. 10:00",
-     "pf": 93,
-     "pa": 77
-    },
-    {
-     "wl": "L",
-     "score": "73:70",
-     "opponent": "Esenler Erokspor",
-     "venue": "A",
-     "date": "19.10. 16:00",
-     "pf": 70,
-     "pa": 73
-    },
-    {
-     "wl": "W",
-     "score": "85:76",
-     "opponent": "Denizli Basket",
-     "venue": "H",
-     "date": "11.10. 12:30",
-     "pf": 85,
-     "pa": 76
-    },
-    {
-     "wl": "W",
-     "score": "79:85",
-     "opponent": "Bordo Bandirma",
-     "venue": "A",
-     "date": "04.10. 15:00",
-     "pf": 85,
-     "pa": 79
-    },
-    {
-     "wl": "W",
-     "score": "95:81",
-     "opponent": "Besiktas",
-     "venue": "H",
-     "date": "27.09. 17:30",
-     "pf": 95,
-     "pa": 81
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "93:77",
-     "opponent": "Korfez Basket",
-     "venue": "H",
-     "date": "25.10. 10:00",
-     "pf": 93,
-     "pa": 77
-    },
-    {
-     "wl": "L",
-     "score": "73:70",
-     "opponent": "Esenler Erokspor",
-     "venue": "A",
-     "date": "19.10. 16:00",
-     "pf": 70,
-     "pa": 73
-    },
-    {
-     "wl": "W",
-     "score": "85:76",
-     "opponent": "Denizli Basket",
-     "venue": "H",
-     "date": "11.10. 12:30",
-     "pf": 85,
-     "pa": 76
-    },
-    {
-     "wl": "W",
-     "score": "79:85",
-     "opponent": "Bordo Bandirma",
-     "venue": "A",
-     "date": "04.10. 15:00",
-     "pf": 85,
-     "pa": 79
-    },
-    {
-     "wl": "W",
-     "score": "95:81",
-     "opponent": "Besiktas",
-     "venue": "H",
-     "date": "27.09. 17:30",
-     "pf": 95,
-     "pa": 81
-    }
-   ],
-   "next": {
-    "date": "02.11. 15:00",
-    "opponent": "Petkim Spor"
-   },
-   "note": ""
-  },
-  {
    "name": "Besiktas",
    "logo": "logos/2c1420f05f20.png",
    "league": "Super Lig",
@@ -1390,6 +1283,113 @@
    "next": {
     "date": "02.11. 17:30",
     "opponent": "Cayirova"
+   },
+   "note": ""
+  },
+  {
+   "name": "Anadolu Efes",
+   "logo": "logos/305eb70ac696.png",
+   "league": "Super Lig",
+   "league_logo": "logos/883974099325.png",
+   "rank": 3,
+   "record": "4-1",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "93:77",
+     "opponent": "Korfez Basket",
+     "venue": "H",
+     "date": "25.10. 10:00",
+     "pf": 93,
+     "pa": 77
+    },
+    {
+     "wl": "L",
+     "score": "73:70",
+     "opponent": "Esenler Erokspor",
+     "venue": "A",
+     "date": "19.10. 16:00",
+     "pf": 70,
+     "pa": 73
+    },
+    {
+     "wl": "W",
+     "score": "85:76",
+     "opponent": "Denizli Basket",
+     "venue": "H",
+     "date": "11.10. 12:30",
+     "pf": 85,
+     "pa": 76
+    },
+    {
+     "wl": "W",
+     "score": "79:85",
+     "opponent": "Bordo Bandirma",
+     "venue": "A",
+     "date": "04.10. 15:00",
+     "pf": 85,
+     "pa": 79
+    },
+    {
+     "wl": "W",
+     "score": "95:81",
+     "opponent": "Besiktas",
+     "venue": "H",
+     "date": "27.09. 17:30",
+     "pf": 95,
+     "pa": 81
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "93:77",
+     "opponent": "Korfez Basket",
+     "venue": "H",
+     "date": "25.10. 10:00",
+     "pf": 93,
+     "pa": 77
+    },
+    {
+     "wl": "L",
+     "score": "73:70",
+     "opponent": "Esenler Erokspor",
+     "venue": "A",
+     "date": "19.10. 16:00",
+     "pf": 70,
+     "pa": 73
+    },
+    {
+     "wl": "W",
+     "score": "85:76",
+     "opponent": "Denizli Basket",
+     "venue": "H",
+     "date": "11.10. 12:30",
+     "pf": 85,
+     "pa": 76
+    },
+    {
+     "wl": "W",
+     "score": "79:85",
+     "opponent": "Bordo Bandirma",
+     "venue": "A",
+     "date": "04.10. 15:00",
+     "pf": 85,
+     "pa": 79
+    },
+    {
+     "wl": "W",
+     "score": "95:81",
+     "opponent": "Besiktas",
+     "venue": "H",
+     "date": "27.09. 17:30",
+     "pf": 95,
+     "pa": 81
+    }
+   ],
+   "next": {
+    "date": "02.11. 15:00",
+    "opponent": "Petkim Spor"
    },
    "note": ""
   },
@@ -1611,7 +1611,7 @@
    "name": "Bayern",
    "logo": "logos/50c0ab79aba2.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 1,
    "record": "5-0",
    "last5": [
