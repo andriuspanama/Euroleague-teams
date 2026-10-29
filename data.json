@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-10-29 18:33",
+ "updated": "2026-10-29 21:29",
  "comp_logo": "logos/5023133ad812.png",
  "teams": [
   {
@@ -467,6 +467,95 @@
    "note": ""
   },
   {
+   "name": "Crvena Zvezda Meridianbet",
+   "logo": "logos/69a25cbc4b87.png",
+   "league": "Adrijos lyga",
+   "league_logo": "logos/9cba694f5f88.png",
+   "rank": 1,
+   "record": "3-1",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "80:81",
+     "opponent": "Igokea",
+     "venue": "A",
+     "date": "24.10. 16:00",
+     "pf": 81,
+     "pa": 80
+    },
+    {
+     "wl": "W",
+     "score": "78:97",
+     "opponent": "KK Krka Novo mesto",
+     "venue": "A",
+     "date": "18.10. 14:00",
+     "pf": 97,
+     "pa": 78
+    },
+    {
+     "wl": "W",
+     "score": "101:91",
+     "opponent": "Buducnost",
+     "venue": "H",
+     "date": "10.10. 19:00",
+     "pf": 101,
+     "pa": 91
+    },
+    {
+     "wl": "L",
+     "score": "90:89",
+     "opponent": "FMP Beograd",
+     "venue": "A",
+     "date": "04.10. 16:00",
+     "pf": 89,
+     "pa": 90
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "80:81",
+     "opponent": "Igokea",
+     "venue": "A",
+     "date": "24.10. 16:00",
+     "pf": 81,
+     "pa": 80
+    },
+    {
+     "wl": "W",
+     "score": "78:97",
+     "opponent": "KK Krka Novo mesto",
+     "venue": "A",
+     "date": "18.10. 14:00",
+     "pf": 97,
+     "pa": 78
+    },
+    {
+     "wl": "W",
+     "score": "101:91",
+     "opponent": "Buducnost",
+     "venue": "H",
+     "date": "10.10. 19:00",
+     "pf": 101,
+     "pa": 91
+    },
+    {
+     "wl": "L",
+     "score": "90:89",
+     "opponent": "FMP Beograd",
+     "venue": "A",
+     "date": "04.10. 16:00",
+     "pf": 89,
+     "pa": 90
+    }
+   ],
+   "next": {
+    "date": "01.11. 12:00",
+    "opponent": "Siroki Brijeg"
+   },
+   "note": ""
+  },
+  {
    "name": "Real Madrid",
    "logo": "logos/f377a388f5c4.png",
    "league": "ACB",
@@ -570,95 +659,6 @@
    "next": {
     "date": "01.11. 11:30",
     "opponent": "San Pablo Burgos"
-   },
-   "note": ""
-  },
-  {
-   "name": "Crvena Zvezda Meridianbet",
-   "logo": "logos/69a25cbc4b87.png",
-   "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
-   "rank": 1,
-   "record": "3-1",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "80:81",
-     "opponent": "Igokea",
-     "venue": "A",
-     "date": "24.10. 16:00",
-     "pf": 81,
-     "pa": 80
-    },
-    {
-     "wl": "W",
-     "score": "78:97",
-     "opponent": "KK Krka Novo mesto",
-     "venue": "A",
-     "date": "18.10. 14:00",
-     "pf": 97,
-     "pa": 78
-    },
-    {
-     "wl": "W",
-     "score": "101:91",
-     "opponent": "Buducnost",
-     "venue": "H",
-     "date": "10.10. 19:00",
-     "pf": 101,
-     "pa": 91
-    },
-    {
-     "wl": "L",
-     "score": "90:89",
-     "opponent": "FMP Beograd",
-     "venue": "A",
-     "date": "04.10. 16:00",
-     "pf": 89,
-     "pa": 90
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "80:81",
-     "opponent": "Igokea",
-     "venue": "A",
-     "date": "24.10. 16:00",
-     "pf": 81,
-     "pa": 80
-    },
-    {
-     "wl": "W",
-     "score": "78:97",
-     "opponent": "KK Krka Novo mesto",
-     "venue": "A",
-     "date": "18.10. 14:00",
-     "pf": 97,
-     "pa": 78
-    },
-    {
-     "wl": "W",
-     "score": "101:91",
-     "opponent": "Buducnost",
-     "venue": "H",
-     "date": "10.10. 19:00",
-     "pf": 101,
-     "pa": 91
-    },
-    {
-     "wl": "L",
-     "score": "90:89",
-     "opponent": "FMP Beograd",
-     "venue": "A",
-     "date": "04.10. 16:00",
-     "pf": 89,
-     "pa": 90
-    }
-   ],
-   "next": {
-    "date": "01.11. 12:00",
-    "opponent": "Siroki Brijeg"
    },
    "note": ""
   },
@@ -1608,6 +1608,77 @@
    "note": ""
   },
   {
+   "name": "Maccabi Tel Aviv",
+   "logo": "logos/06951b3cfab7.png",
+   "league": "Super League",
+   "league_logo": "logos/7af634241793.png",
+   "rank": 2,
+   "record": "2-1",
+   "last5": [
+    {
+     "wl": "L",
+     "score": "93:90",
+     "opponent": "Maccabi Rishon",
+     "venue": "A",
+     "date": "24.10. 16:25",
+     "pf": 90,
+     "pa": 93
+    },
+    {
+     "wl": "W",
+     "score": "116:89",
+     "opponent": "Ironi Kiryat Ata",
+     "venue": "H",
+     "date": "18.10. 17:55",
+     "pf": 116,
+     "pa": 89
+    },
+    {
+     "wl": "W",
+     "score": "120:93",
+     "opponent": "Galil Elyon",
+     "venue": "H",
+     "date": "10.10. 17:15",
+     "pf": 120,
+     "pa": 93
+    }
+   ],
+   "games": [
+    {
+     "wl": "L",
+     "score": "93:90",
+     "opponent": "Maccabi Rishon",
+     "venue": "A",
+     "date": "24.10. 16:25",
+     "pf": 90,
+     "pa": 93
+    },
+    {
+     "wl": "W",
+     "score": "116:89",
+     "opponent": "Ironi Kiryat Ata",
+     "venue": "H",
+     "date": "18.10. 17:55",
+     "pf": 116,
+     "pa": 89
+    },
+    {
+     "wl": "W",
+     "score": "120:93",
+     "opponent": "Galil Elyon",
+     "venue": "H",
+     "date": "10.10. 17:15",
+     "pf": 120,
+     "pa": 93
+    }
+   ],
+   "next": {
+    "date": "01.11. 18:55",
+    "opponent": "Hapoel Tel Aviv"
+   },
+   "note": ""
+  },
+  {
    "name": "Bayern",
    "logo": "logos/50c0ab79aba2.png",
    "league": "BBL",
@@ -1711,77 +1782,6 @@
    "next": {
     "date": "01.11. 14:00",
     "opponent": "Rostock"
-   },
-   "note": ""
-  },
-  {
-   "name": "Maccabi Tel Aviv",
-   "logo": "logos/06951b3cfab7.png",
-   "league": "Super League",
-   "league_logo": "logos/7af634241793.png",
-   "rank": 2,
-   "record": "2-1",
-   "last5": [
-    {
-     "wl": "L",
-     "score": "93:90",
-     "opponent": "Maccabi Rishon",
-     "venue": "A",
-     "date": "24.10. 16:25",
-     "pf": 90,
-     "pa": 93
-    },
-    {
-     "wl": "W",
-     "score": "116:89",
-     "opponent": "Ironi Kiryat Ata",
-     "venue": "H",
-     "date": "18.10. 17:55",
-     "pf": 116,
-     "pa": 89
-    },
-    {
-     "wl": "W",
-     "score": "120:93",
-     "opponent": "Galil Elyon",
-     "venue": "H",
-     "date": "10.10. 17:15",
-     "pf": 120,
-     "pa": 93
-    }
-   ],
-   "games": [
-    {
-     "wl": "L",
-     "score": "93:90",
-     "opponent": "Maccabi Rishon",
-     "venue": "A",
-     "date": "24.10. 16:25",
-     "pf": 90,
-     "pa": 93
-    },
-    {
-     "wl": "W",
-     "score": "116:89",
-     "opponent": "Ironi Kiryat Ata",
-     "venue": "H",
-     "date": "18.10. 17:55",
-     "pf": 116,
-     "pa": 89
-    },
-    {
-     "wl": "W",
-     "score": "120:93",
-     "opponent": "Galil Elyon",
-     "venue": "H",
-     "date": "10.10. 17:15",
-     "pf": 120,
-     "pa": 93
-    }
-   ],
-   "next": {
-    "date": "01.11. 18:55",
-    "opponent": "Hapoel Tel Aviv"
    },
    "note": ""
   },
