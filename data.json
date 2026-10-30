@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-10-29 21:29",
+ "updated": "2026-10-30 00:29",
  "comp_logo": "logos/5023133ad812.png",
  "teams": [
   {
@@ -267,113 +267,6 @@
    "next": {
     "date": "01.11. 18:55",
     "opponent": "Maccabi Tel Aviv"
-   },
-   "note": ""
-  },
-  {
-   "name": "Fenerbahce",
-   "logo": "logos/ce0512d2b115.png",
-   "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
-   "rank": 6,
-   "record": "3-2",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "72:97",
-     "opponent": "Karsiyaka",
-     "venue": "A",
-     "date": "25.10. 12:30",
-     "pf": 97,
-     "pa": 72
-    },
-    {
-     "wl": "L",
-     "score": "77:82",
-     "opponent": "Petkim Spor",
-     "venue": "H",
-     "date": "18.10. 12:30",
-     "pf": 77,
-     "pa": 82
-    },
-    {
-     "wl": "W",
-     "score": "85:100",
-     "opponent": "Cayirova",
-     "venue": "A",
-     "date": "10.10. 17:30",
-     "pf": 100,
-     "pa": 85
-    },
-    {
-     "wl": "W",
-     "score": "85:84",
-     "opponent": "Korfez Basket",
-     "venue": "H",
-     "date": "04.10. 12:30",
-     "pf": 85,
-     "pa": 84
-    },
-    {
-     "wl": "L",
-     "score": "98:83",
-     "opponent": "Bahcesehir Kol.",
-     "venue": "A",
-     "date": "27.09. 15:00",
-     "pf": 83,
-     "pa": 98
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "72:97",
-     "opponent": "Karsiyaka",
-     "venue": "A",
-     "date": "25.10. 12:30",
-     "pf": 97,
-     "pa": 72
-    },
-    {
-     "wl": "L",
-     "score": "77:82",
-     "opponent": "Petkim Spor",
-     "venue": "H",
-     "date": "18.10. 12:30",
-     "pf": 77,
-     "pa": 82
-    },
-    {
-     "wl": "W",
-     "score": "85:100",
-     "opponent": "Cayirova",
-     "venue": "A",
-     "date": "10.10. 17:30",
-     "pf": 100,
-     "pa": 85
-    },
-    {
-     "wl": "W",
-     "score": "85:84",
-     "opponent": "Korfez Basket",
-     "venue": "H",
-     "date": "04.10. 12:30",
-     "pf": 85,
-     "pa": 84
-    },
-    {
-     "wl": "L",
-     "score": "98:83",
-     "opponent": "Bahcesehir Kol.",
-     "venue": "A",
-     "date": "27.09. 15:00",
-     "pf": 83,
-     "pa": 98
-    }
-   ],
-   "next": {
-    "date": "01.11. 12:30",
-    "opponent": "Tofas"
    },
    "note": ""
   },
@@ -659,6 +552,113 @@
    "next": {
     "date": "01.11. 11:30",
     "opponent": "San Pablo Burgos"
+   },
+   "note": ""
+  },
+  {
+   "name": "Fenerbahce",
+   "logo": "logos/ce0512d2b115.png",
+   "league": "Super Lig",
+   "league_logo": "logos/883974099325.png",
+   "rank": 6,
+   "record": "3-2",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "72:97",
+     "opponent": "Karsiyaka",
+     "venue": "A",
+     "date": "25.10. 12:30",
+     "pf": 97,
+     "pa": 72
+    },
+    {
+     "wl": "L",
+     "score": "77:82",
+     "opponent": "Petkim Spor",
+     "venue": "H",
+     "date": "18.10. 12:30",
+     "pf": 77,
+     "pa": 82
+    },
+    {
+     "wl": "W",
+     "score": "85:100",
+     "opponent": "Cayirova",
+     "venue": "A",
+     "date": "10.10. 17:30",
+     "pf": 100,
+     "pa": 85
+    },
+    {
+     "wl": "W",
+     "score": "85:84",
+     "opponent": "Korfez Basket",
+     "venue": "H",
+     "date": "04.10. 12:30",
+     "pf": 85,
+     "pa": 84
+    },
+    {
+     "wl": "L",
+     "score": "98:83",
+     "opponent": "Bahcesehir Kol.",
+     "venue": "A",
+     "date": "27.09. 15:00",
+     "pf": 83,
+     "pa": 98
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "72:97",
+     "opponent": "Karsiyaka",
+     "venue": "A",
+     "date": "25.10. 12:30",
+     "pf": 97,
+     "pa": 72
+    },
+    {
+     "wl": "L",
+     "score": "77:82",
+     "opponent": "Petkim Spor",
+     "venue": "H",
+     "date": "18.10. 12:30",
+     "pf": 77,
+     "pa": 82
+    },
+    {
+     "wl": "W",
+     "score": "85:100",
+     "opponent": "Cayirova",
+     "venue": "A",
+     "date": "10.10. 17:30",
+     "pf": 100,
+     "pa": 85
+    },
+    {
+     "wl": "W",
+     "score": "85:84",
+     "opponent": "Korfez Basket",
+     "venue": "H",
+     "date": "04.10. 12:30",
+     "pf": 85,
+     "pa": 84
+    },
+    {
+     "wl": "L",
+     "score": "98:83",
+     "opponent": "Bahcesehir Kol.",
+     "venue": "A",
+     "date": "27.09. 15:00",
+     "pf": 83,
+     "pa": 98
+    }
+   ],
+   "next": {
+    "date": "01.11. 12:30",
+    "opponent": "Tofas"
    },
    "note": ""
   },
