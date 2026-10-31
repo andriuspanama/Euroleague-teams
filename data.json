@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-10-31 06:32",
+ "updated": "2026-10-31 09:28",
  "comp_logo": "logos/5023133ad812.png",
  "teams": [
   {
@@ -274,7 +274,7 @@
    "name": "Real Madrid",
    "logo": "logos/f377a388f5c4.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 1,
    "record": "5-0",
    "last5": [
@@ -381,7 +381,7 @@
    "name": "Valencia",
    "logo": "logos/ee8c4a8d6a89.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 4,
    "record": "3-2",
    "last5": [
@@ -488,7 +488,7 @@
    "name": "Hapoel Tel Aviv",
    "logo": "logos/fb32ddc6ad65.png",
    "league": "Super League",
-   "league_logo": "logos/7af634241793.png",
+   "league_logo": "logos/07d3791c1460.png",
    "rank": 3,
    "record": "2-1",
    "last5": [
@@ -559,7 +559,7 @@
    "name": "Fenerbahce",
    "logo": "logos/ce0512d2b115.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 6,
    "record": "3-2",
    "last5": [
@@ -666,7 +666,7 @@
    "name": "Barcelona",
    "logo": "logos/1bb9853748d7.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 7,
    "record": "3-2",
    "last5": [
@@ -987,7 +987,7 @@
    "name": "Besiktas",
    "logo": "logos/2c1420f05f20.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 9,
    "record": "2-3",
    "last5": [
@@ -1290,7 +1290,7 @@
    "name": "Anadolu Efes",
    "logo": "logos/305eb70ac696.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 3,
    "record": "4-1",
    "last5": [
@@ -1611,7 +1611,7 @@
    "name": "Maccabi Tel Aviv",
    "logo": "logos/06951b3cfab7.png",
    "league": "Super League",
-   "league_logo": "logos/7af634241793.png",
+   "league_logo": "logos/07d3791c1460.png",
    "rank": 2,
    "record": "2-1",
    "last5": [
@@ -1896,7 +1896,7 @@
    "name": "Baskonia",
    "logo": "logos/98ab31536eee.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 3,
    "record": "3-2",
    "last5": [
