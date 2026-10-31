@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-10-31 12:29",
+ "updated": "2026-10-31 15:23",
  "comp_logo": "logos/5023133ad812.png",
  "teams": [
   {
@@ -97,7 +97,7 @@
    "logo": "logos/a8e763b6b424.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 4,
+   "rank": 6,
    "record": "4-0",
    "last5": [
     {
@@ -559,8 +559,8 @@
    "name": "Fenerbahce",
    "logo": "logos/ce0512d2b115.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
-   "rank": 6,
+   "league_logo": "logos/883974099325.png",
+   "rank": 8,
    "record": "3-2",
    "last5": [
     {
@@ -987,8 +987,8 @@
    "name": "Besiktas",
    "logo": "logos/2c1420f05f20.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
-   "rank": 9,
+   "league_logo": "logos/883974099325.png",
+   "rank": 10,
    "record": "2-3",
    "last5": [
     {
@@ -1290,8 +1290,8 @@
    "name": "Anadolu Efes",
    "logo": "logos/305eb70ac696.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
-   "rank": 3,
+   "league_logo": "logos/883974099325.png",
+   "rank": 4,
    "record": "4-1",
    "last5": [
     {
@@ -1397,7 +1397,7 @@
    "name": "Lyon-Villeurbanne",
    "logo": "logos/59cea8016204.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 2,
    "record": "5-0",
    "last5": [
@@ -1504,7 +1504,7 @@
    "name": "Paris",
    "logo": "logos/32485d516fe0.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 1,
    "record": "5-0",
    "last5": [
