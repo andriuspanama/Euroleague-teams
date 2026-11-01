@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-11-01 12:30",
+ "updated": "2026-11-01 15:24",
  "comp_logo": "logos/5023133ad812.png",
  "teams": [
   {
@@ -87,8 +87,8 @@
     }
    ],
    "next": {
-    "date": "01.11. 15:00",
-    "opponent": "Aris"
+    "date": "08.11. 11:00",
+    "opponent": "AEK Athens"
    },
    "note": ""
   },
@@ -97,9 +97,18 @@
    "logo": "logos/a8e763b6b424.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 8,
-   "record": "4-0",
+   "rank": 2,
+   "record": "5-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "91:62",
+     "opponent": "Peristeri",
+     "venue": "H",
+     "date": "01.11. 11:00",
+     "pf": 91,
+     "pa": 62
+    },
     {
      "wl": "W",
      "score": "45:85",
@@ -138,6 +147,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "91:62",
+     "opponent": "Peristeri",
+     "venue": "H",
+     "date": "01.11. 11:00",
+     "pf": 91,
+     "pa": 62
+    },
     {
      "wl": "W",
      "score": "45:85",
@@ -186,9 +204,18 @@
    "logo": "logos/69a25cbc4b87.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/9cba694f5f88.png",
-   "rank": 4,
-   "record": "3-1",
+   "rank": 2,
+   "record": "4-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "100:82",
+     "opponent": "Siroki Brijeg",
+     "venue": "H",
+     "date": "01.11. 12:00",
+     "pf": 100,
+     "pa": 82
+    },
     {
      "wl": "W",
      "score": "80:81",
@@ -227,6 +254,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "100:82",
+     "opponent": "Siroki Brijeg",
+     "venue": "H",
+     "date": "01.11. 12:00",
+     "pf": 100,
+     "pa": 82
+    },
     {
      "wl": "W",
      "score": "80:81",
@@ -276,8 +312,17 @@
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
    "rank": 1,
-   "record": "5-0",
+   "record": "6-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "90:79",
+     "opponent": "San Pablo Burgos",
+     "venue": "H",
+     "date": "01.11. 11:30",
+     "pf": 90,
+     "pa": 79
+    },
     {
      "wl": "W",
      "score": "86:122",
@@ -313,18 +358,18 @@
      "date": "04.10. 10:30",
      "pf": 114,
      "pa": 107
-    },
-    {
-     "wl": "W",
-     "score": "89:87",
-     "opponent": "Unicaja",
-     "venue": "H",
-     "date": "27.09. 17:00",
-     "pf": 89,
-     "pa": 87
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "90:79",
+     "opponent": "San Pablo Burgos",
+     "venue": "H",
+     "date": "01.11. 11:30",
+     "pf": 90,
+     "pa": 79
+    },
     {
      "wl": "W",
      "score": "86:122",
@@ -382,7 +427,7 @@
    "logo": "logos/ee8c4a8d6a89.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 5,
+   "rank": 7,
    "record": "3-2",
    "last5": [
     {
@@ -560,9 +605,18 @@
    "logo": "logos/ce0512d2b115.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 9,
-   "record": "3-2",
+   "rank": 3,
+   "record": "4-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "88:77",
+     "opponent": "Tofas",
+     "venue": "H",
+     "date": "01.11. 12:30",
+     "pf": 88,
+     "pa": 77
+    },
     {
      "wl": "W",
      "score": "72:97",
@@ -598,18 +652,18 @@
      "date": "04.10. 12:30",
      "pf": 85,
      "pa": 84
-    },
-    {
-     "wl": "L",
-     "score": "98:83",
-     "opponent": "Bahcesehir Kol.",
-     "venue": "A",
-     "date": "27.09. 15:00",
-     "pf": 83,
-     "pa": 98
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "88:77",
+     "opponent": "Tofas",
+     "venue": "H",
+     "date": "01.11. 12:30",
+     "pf": 88,
+     "pa": 77
+    },
     {
      "wl": "W",
      "score": "72:97",
@@ -657,8 +711,8 @@
     }
    ],
    "next": {
-    "date": "01.11. 12:30",
-    "opponent": "Tofas"
+    "date": "07.11. 17:30",
+    "opponent": "Bursaspor"
    },
    "note": ""
   },
@@ -667,7 +721,7 @@
    "logo": "logos/1bb9853748d7.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 8,
+   "rank": 9,
    "record": "3-2",
    "last5": [
     {
@@ -1291,7 +1345,7 @@
    "logo": "logos/305eb70ac696.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 5,
+   "rank": 6,
    "record": "4-1",
    "last5": [
     {
@@ -1780,8 +1834,8 @@
     }
    ],
    "next": {
-    "date": "01.11. 14:00",
-    "opponent": "Rostock"
+    "date": "03.11. 19:00",
+    "opponent": "Basketball Braunschweig"
    },
    "note": ""
   },
@@ -1897,7 +1951,7 @@
    "logo": "logos/98ab31536eee.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 4,
+   "rank": 6,
    "record": "3-2",
    "last5": [
     {
