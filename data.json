@@ -1,7 +1,7 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-11-01 09:31",
- "comp_logo": "logos/a4426d3c0e5a.png",
+ "updated": "2026-11-01 12:30",
+ "comp_logo": "logos/5023133ad812.png",
  "teams": [
   {
    "name": "Panathinaikos",
@@ -176,8 +176,8 @@
     }
    ],
    "next": {
-    "date": "01.11. 11:00",
-    "opponent": "Peristeri"
+    "date": "08.11. 15:30",
+    "opponent": "Maroussi"
    },
    "note": ""
   },
@@ -265,8 +265,8 @@
     }
    ],
    "next": {
-    "date": "01.11. 12:00",
-    "opponent": "Siroki Brijeg"
+    "date": "09.11. 17:00",
+    "opponent": "Slovan Bratislava"
    },
    "note": ""
   },
@@ -372,8 +372,8 @@
     }
    ],
    "next": {
-    "date": "01.11. 11:30",
-    "opponent": "San Pablo Burgos"
+    "date": "08.11. 18:00",
+    "opponent": "Murcia"
    },
    "note": ""
   },
@@ -1291,7 +1291,7 @@
    "logo": "logos/305eb70ac696.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 4,
+   "rank": 5,
    "record": "4-1",
    "last5": [
     {
