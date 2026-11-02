@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-11-02 03:55",
+ "updated": "2026-11-02 14:32",
  "comp_logo": "logos/a4426d3c0e5a.png",
  "teams": [
   {
@@ -328,7 +328,7 @@
    "name": "Real Madrid",
    "logo": "logos/f377a388f5c4.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 1,
    "record": "6-0",
    "last5": [
@@ -444,7 +444,7 @@
    "name": "Valencia",
    "logo": "logos/ee8c4a8d6a89.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 2,
    "record": "4-2",
    "last5": [
@@ -765,7 +765,7 @@
    "name": "Barcelona",
    "logo": "logos/1bb9853748d7.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 7,
    "record": "4-2",
    "last5": [
@@ -1204,8 +1204,17 @@
    "league": "Adrijos lyga",
    "league_logo": "logos/9cba694f5f88.png",
    "rank": 1,
-   "record": "4-0",
+   "record": "5-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "97:77",
+     "opponent": "Cluj-Napoca",
+     "venue": "H",
+     "date": "02.11. 12:00",
+     "pf": 97,
+     "pa": 77
+    },
     {
      "wl": "W",
      "score": "80:82",
@@ -1246,6 +1255,15 @@
    "games": [
     {
      "wl": "W",
+     "score": "97:77",
+     "opponent": "Cluj-Napoca",
+     "venue": "H",
+     "date": "02.11. 12:00",
+     "pf": 97,
+     "pa": 77
+    },
+    {
+     "wl": "W",
      "score": "80:82",
      "opponent": "Spartak Subotica",
      "venue": "A",
@@ -1282,8 +1300,8 @@
     }
    ],
    "next": {
-    "date": "02.11. 12:00",
-    "opponent": "Cluj-Napoca"
+    "date": "08.11. 12:00",
+    "opponent": "Studentski Centar"
    },
    "note": ""
   },
@@ -1291,7 +1309,7 @@
    "name": "Virtus Bologna",
    "logo": "logos/a521f88d4d91.png",
    "league": "Lega A",
-   "league_logo": "logos/a535f34abeaf.png",
+   "league_logo": "logos/b55c66fda764.png",
    "rank": 1,
    "record": "5-0",
    "last5": [
@@ -1505,7 +1523,7 @@
    "name": "Lyon-Villeurbanne",
    "logo": "logos/59cea8016204.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 4,
    "record": "5-1",
    "last5": [
@@ -1621,7 +1639,7 @@
    "name": "Paris",
    "logo": "logos/32485d516fe0.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 1,
    "record": "6-0",
    "last5": [
@@ -1942,7 +1960,7 @@
    "name": "Olimpia Milano",
    "logo": "logos/8ba53e5cb6fd.png",
    "league": "Lega A",
-   "league_logo": "logos/a535f34abeaf.png",
+   "league_logo": "logos/b55c66fda764.png",
    "rank": 6,
    "record": "3-2",
    "last5": [
@@ -2049,7 +2067,7 @@
    "name": "Baskonia",
    "logo": "logos/98ab31536eee.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 3,
    "record": "4-2",
    "last5": [
