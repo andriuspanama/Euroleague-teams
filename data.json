@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-11-03 13:28",
+ "updated": "2026-11-03 20:44",
  "comp_logo": "logos/5023133ad812.png",
  "teams": [
   {
@@ -328,7 +328,7 @@
    "name": "Real Madrid",
    "logo": "logos/f377a388f5c4.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 1,
    "record": "6-0",
    "last5": [
@@ -444,7 +444,7 @@
    "name": "Valencia",
    "logo": "logos/ee8c4a8d6a89.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 2,
    "record": "4-2",
    "last5": [
@@ -560,7 +560,7 @@
    "name": "Hapoel Tel Aviv",
    "logo": "logos/fb32ddc6ad65.png",
    "league": "Super League",
-   "league_logo": "logos/07d3791c1460.png",
+   "league_logo": "logos/7af634241793.png",
    "rank": 2,
    "record": "3-1",
    "last5": [
@@ -765,7 +765,7 @@
    "name": "Barcelona",
    "logo": "logos/1bb9853748d7.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 7,
    "record": "4-2",
    "last5": [
@@ -988,7 +988,7 @@
    "name": "Zalgiris Kaunas",
    "logo": "logos/207f4b8cf1bd.png",
    "league": "LKL",
-   "league_logo": "logos/c5eddc9adb50.png",
+   "league_logo": "logos/e5d4a9d7c1bb.png",
    "rank": 1,
    "record": "8-0",
    "last5": [
@@ -1800,8 +1800,8 @@
     }
    ],
    "next": {
-    "date": "03.11. 18:30",
-    "opponent": "Cholet"
+    "date": "08.11. 15:30",
+    "opponent": "JL Bourg"
    },
    "note": ""
   },
@@ -1809,7 +1809,7 @@
    "name": "Maccabi Tel Aviv",
    "logo": "logos/06951b3cfab7.png",
    "league": "Super League",
-   "league_logo": "logos/07d3791c1460.png",
+   "league_logo": "logos/7af634241793.png",
    "rank": 4,
    "record": "2-2",
    "last5": [
@@ -2005,8 +2005,8 @@
     }
    ],
    "next": {
-    "date": "03.11. 19:00",
-    "opponent": "Basketball Braunschweig"
+    "date": "08.11. 17:00",
+    "opponent": "Wurzburg"
    },
    "note": ""
   },
@@ -2130,7 +2130,7 @@
    "name": "Baskonia",
    "logo": "logos/98ab31536eee.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 3,
    "record": "4-2",
    "last5": [
