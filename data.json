@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-11-03 20:44",
+ "updated": "2026-11-04 01:00",
  "comp_logo": "logos/5023133ad812.png",
  "teams": [
   {
@@ -988,7 +988,7 @@
    "name": "Zalgiris Kaunas",
    "logo": "logos/207f4b8cf1bd.png",
    "league": "LKL",
-   "league_logo": "logos/e5d4a9d7c1bb.png",
+   "league_logo": "logos/c5eddc9adb50.png",
    "rank": 1,
    "record": "8-0",
    "last5": [
@@ -1695,8 +1695,17 @@
    "league": "LNB",
    "league_logo": "logos/c611aab280e5.png",
    "rank": 1,
-   "record": "6-0",
+   "record": "6-1",
    "last5": [
+    {
+     "wl": "L",
+     "score": "94:90",
+     "opponent": "Cholet",
+     "venue": "A",
+     "date": "03.11. 18:30",
+     "pf": 90,
+     "pa": 94
+    },
     {
      "wl": "W",
      "score": "116:112",
@@ -1732,18 +1741,18 @@
      "date": "11.10. 14:30",
      "pf": 98,
      "pa": 84
-    },
-    {
-     "wl": "W",
-     "score": "101:103",
-     "opponent": "Le Mans",
-     "venue": "A",
-     "date": "04.10. 16:50",
-     "pf": 103,
-     "pa": 101
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "94:90",
+     "opponent": "Cholet",
+     "venue": "A",
+     "date": "03.11. 18:30",
+     "pf": 90,
+     "pa": 94
+    },
     {
      "wl": "W",
      "score": "116:112",
@@ -1900,8 +1909,17 @@
    "league": "BBL",
    "league_logo": "logos/98572a4b17ba.png",
    "rank": 1,
-   "record": "5-1",
+   "record": "6-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "108:66",
+     "opponent": "Basketball Braunschweig",
+     "venue": "H",
+     "date": "03.11. 19:00",
+     "pf": 108,
+     "pa": 66
+    },
     {
      "wl": "L",
      "score": "69:67",
@@ -1937,18 +1955,18 @@
      "date": "04.10. 13:00",
      "pf": 113,
      "pa": 60
-    },
-    {
-     "wl": "W",
-     "score": "95:61",
-     "opponent": "Alba Berlin",
-     "venue": "H",
-     "date": "26.09. 13:40",
-     "pf": 95,
-     "pa": 61
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "108:66",
+     "opponent": "Basketball Braunschweig",
+     "venue": "H",
+     "date": "03.11. 19:00",
+     "pf": 108,
+     "pa": 66
+    },
     {
      "wl": "L",
      "score": "69:67",
