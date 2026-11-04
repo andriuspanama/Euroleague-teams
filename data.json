@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-11-04 10:19",
+ "updated": "2026-11-04 19:14",
  "comp_logo": "logos/5023133ad812.png",
  "teams": [
   {
@@ -221,7 +221,7 @@
    "name": "Crvena Zvezda Meridianbet",
    "logo": "logos/69a25cbc4b87.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
+   "league_logo": "logos/4ecaeb496585.png",
    "rank": 2,
    "record": "4-1",
    "last5": [
@@ -881,7 +881,7 @@
    "name": "Dubai",
    "logo": "logos/8f361860857d.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
+   "league_logo": "logos/4ecaeb496585.png",
    "rank": 2,
    "record": "5-0",
    "last5": [
@@ -1238,7 +1238,7 @@
    "name": "Partizan Mozzart Bet",
    "logo": "logos/b85eb70fe82f.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
+   "league_logo": "logos/4ecaeb496585.png",
    "rank": 1,
    "record": "5-0",
    "last5": [
@@ -1345,7 +1345,7 @@
    "name": "Virtus Bologna",
    "logo": "logos/a521f88d4d91.png",
    "league": "Lega A",
-   "league_logo": "logos/b55c66fda764.png",
+   "league_logo": "logos/a535f34abeaf.png",
    "rank": 1,
    "record": "5-1",
    "last5": [
@@ -1577,7 +1577,7 @@
    "name": "Lyon-Villeurbanne",
    "logo": "logos/59cea8016204.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 4,
    "record": "5-1",
    "last5": [
@@ -1693,7 +1693,7 @@
    "name": "Paris",
    "logo": "logos/32485d516fe0.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 1,
    "record": "6-1",
    "last5": [
@@ -2032,7 +2032,7 @@
    "name": "Olimpia Milano",
    "logo": "logos/8ba53e5cb6fd.png",
    "league": "Lega A",
-   "league_logo": "logos/b55c66fda764.png",
+   "league_logo": "logos/a535f34abeaf.png",
    "rank": 4,
    "record": "4-2",
    "last5": [
