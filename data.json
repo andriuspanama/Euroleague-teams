@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-11-06 01:19",
+ "updated": "2026-11-06 10:16",
  "comp_logo": "logos/5023133ad812.png",
  "teams": [
   {
@@ -221,7 +221,7 @@
    "name": "Valencia",
    "logo": "logos/ee8c4a8d6a89.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 2,
    "record": "4-2",
    "last5": [
@@ -453,112 +453,11 @@
    "name": "Barcelona",
    "logo": "logos/1bb9853748d7.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 7,
    "record": "4-2",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "89:92",
-     "opponent": "Unicaja",
-     "venue": "A",
-     "date": "01.11. 18:00",
-     "pf": 92,
-     "pa": 89
-    },
-    {
-     "wl": "W",
-     "score": "99:81",
-     "opponent": "Basket Zaragoza",
-     "venue": "H",
-     "date": "24.10. 19:00",
-     "pf": 99,
-     "pa": 81
-    },
-    {
-     "wl": "L",
-     "score": "113:89",
-     "opponent": "Joventut Badalona",
-     "venue": "A",
-     "date": "18.10. 17:00",
-     "pf": 89,
-     "pa": 113
-    },
-    {
-     "wl": "W",
-     "score": "89:86",
-     "opponent": "Valencia",
-     "venue": "H",
-     "date": "11.10. 17:00",
-     "pf": 89,
-     "pa": 86
-    },
-    {
-     "wl": "L",
-     "score": "100:94",
-     "opponent": "Murcia",
-     "venue": "A",
-     "date": "04.10. 17:00",
-     "pf": 94,
-     "pa": 100
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "89:92",
-     "opponent": "Unicaja",
-     "venue": "A",
-     "date": "01.11. 18:00",
-     "pf": 92,
-     "pa": 89
-    },
-    {
-     "wl": "W",
-     "score": "99:81",
-     "opponent": "Basket Zaragoza",
-     "venue": "H",
-     "date": "24.10. 19:00",
-     "pf": 99,
-     "pa": 81
-    },
-    {
-     "wl": "L",
-     "score": "113:89",
-     "opponent": "Joventut Badalona",
-     "venue": "A",
-     "date": "18.10. 17:00",
-     "pf": 89,
-     "pa": 113
-    },
-    {
-     "wl": "W",
-     "score": "89:86",
-     "opponent": "Valencia",
-     "venue": "H",
-     "date": "11.10. 17:00",
-     "pf": 89,
-     "pa": 86
-    },
-    {
-     "wl": "L",
-     "score": "100:94",
-     "opponent": "Murcia",
-     "venue": "A",
-     "date": "04.10. 17:00",
-     "pf": 94,
-     "pa": 100
-    },
-    {
-     "wl": "W",
-     "score": "119:101",
-     "opponent": "Leyma Coruna",
-     "venue": "H",
-     "date": "26.09. 19:00",
-     "pf": 119,
-     "pa": 101
-    }
-   ],
+   "last5": [],
+   "games": [],
    "next": {
     "date": "08.11. 11:00",
     "opponent": "Breogan"
@@ -783,7 +682,7 @@
    "name": "Real Madrid",
    "logo": "logos/f377a388f5c4.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 1,
    "record": "6-0",
    "last5": [
@@ -1345,7 +1244,7 @@
    "name": "Virtus Bologna",
    "logo": "logos/a521f88d4d91.png",
    "league": "Lega A",
-   "league_logo": "logos/a535f34abeaf.png",
+   "league_logo": "logos/b55c66fda764.png",
    "rank": 1,
    "record": "5-1",
    "last5": [
@@ -2032,7 +1931,7 @@
    "name": "Olimpia Milano",
    "logo": "logos/8ba53e5cb6fd.png",
    "league": "Lega A",
-   "league_logo": "logos/a535f34abeaf.png",
+   "league_logo": "logos/b55c66fda764.png",
    "rank": 4,
    "record": "4-2",
    "last5": [
@@ -2148,7 +2047,7 @@
    "name": "Baskonia",
    "logo": "logos/98ab31536eee.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 3,
    "record": "4-2",
    "last5": [
