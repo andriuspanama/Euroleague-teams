@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-11-06 10:16",
+ "updated": "2026-11-06 18:46",
  "comp_logo": "logos/5023133ad812.png",
  "teams": [
   {
@@ -337,7 +337,7 @@
    "name": "Fenerbahce",
    "logo": "logos/ce0512d2b115.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 4,
    "record": "4-2",
    "last5": [
@@ -456,8 +456,109 @@
    "league_logo": "logos/c68ff65a02e9.png",
    "rank": 7,
    "record": "4-2",
-   "last5": [],
-   "games": [],
+   "last5": [
+    {
+     "wl": "W",
+     "score": "89:92",
+     "opponent": "Unicaja",
+     "venue": "A",
+     "date": "01.11. 18:00",
+     "pf": 92,
+     "pa": 89
+    },
+    {
+     "wl": "W",
+     "score": "99:81",
+     "opponent": "Basket Zaragoza",
+     "venue": "H",
+     "date": "24.10. 19:00",
+     "pf": 99,
+     "pa": 81
+    },
+    {
+     "wl": "L",
+     "score": "113:89",
+     "opponent": "Joventut Badalona",
+     "venue": "A",
+     "date": "18.10. 17:00",
+     "pf": 89,
+     "pa": 113
+    },
+    {
+     "wl": "W",
+     "score": "89:86",
+     "opponent": "Valencia",
+     "venue": "H",
+     "date": "11.10. 17:00",
+     "pf": 89,
+     "pa": 86
+    },
+    {
+     "wl": "L",
+     "score": "100:94",
+     "opponent": "Murcia",
+     "venue": "A",
+     "date": "04.10. 17:00",
+     "pf": 94,
+     "pa": 100
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "89:92",
+     "opponent": "Unicaja",
+     "venue": "A",
+     "date": "01.11. 18:00",
+     "pf": 92,
+     "pa": 89
+    },
+    {
+     "wl": "W",
+     "score": "99:81",
+     "opponent": "Basket Zaragoza",
+     "venue": "H",
+     "date": "24.10. 19:00",
+     "pf": 99,
+     "pa": 81
+    },
+    {
+     "wl": "L",
+     "score": "113:89",
+     "opponent": "Joventut Badalona",
+     "venue": "A",
+     "date": "18.10. 17:00",
+     "pf": 89,
+     "pa": 113
+    },
+    {
+     "wl": "W",
+     "score": "89:86",
+     "opponent": "Valencia",
+     "venue": "H",
+     "date": "11.10. 17:00",
+     "pf": 89,
+     "pa": 86
+    },
+    {
+     "wl": "L",
+     "score": "100:94",
+     "opponent": "Murcia",
+     "venue": "A",
+     "date": "04.10. 17:00",
+     "pf": 94,
+     "pa": 100
+    },
+    {
+     "wl": "W",
+     "score": "119:101",
+     "opponent": "Leyma Coruna",
+     "venue": "H",
+     "date": "26.09. 19:00",
+     "pf": 119,
+     "pa": 101
+    }
+   ],
    "next": {
     "date": "08.11. 11:00",
     "opponent": "Breogan"
@@ -1021,7 +1122,7 @@
    "name": "Besiktas",
    "logo": "logos/2c1420f05f20.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 8,
    "record": "3-3",
    "last5": [
@@ -1360,7 +1461,7 @@
    "name": "Anadolu Efes",
    "logo": "logos/305eb70ac696.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 2,
    "record": "5-1",
    "last5": [
@@ -1476,7 +1577,7 @@
    "name": "Paris",
    "logo": "logos/32485d516fe0.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 1,
    "record": "6-1",
    "last5": [
@@ -1601,7 +1702,7 @@
    "name": "Lyon-Villeurbanne",
    "logo": "logos/59cea8016204.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 4,
    "record": "5-1",
    "last5": [
@@ -1843,7 +1944,7 @@
    "logo": "logos/06951b3cfab7.png",
    "league": "Super League",
    "league_logo": "logos/7af634241793.png",
-   "rank": 4,
+   "rank": 5,
    "record": "2-2",
    "last5": [
     {
