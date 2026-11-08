@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-11-08 12:37",
+ "updated": "2026-11-08 19:16",
  "comp_logo": "logos/5023133ad812.png",
  "teams": [
   {
@@ -8,9 +8,18 @@
    "logo": "logos/9c75fb783005.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 9,
-   "record": "4-1",
+   "rank": 5,
+   "record": "5-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "74:83",
+     "opponent": "AEK Athens",
+     "venue": "A",
+     "date": "08.11. 11:00",
+     "pf": 83,
+     "pa": 74
+    },
     {
      "wl": "L",
      "score": "101:91",
@@ -46,18 +55,18 @@
      "date": "10.10. 16:00",
      "pf": 84,
      "pa": 59
-    },
-    {
-     "wl": "W",
-     "score": "103:74",
-     "opponent": "Vikos",
-     "venue": "H",
-     "date": "04.10. 10:00",
-     "pf": 103,
-     "pa": 74
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "74:83",
+     "opponent": "AEK Athens",
+     "venue": "A",
+     "date": "08.11. 11:00",
+     "pf": 83,
+     "pa": 74
+    },
     {
      "wl": "L",
      "score": "101:91",
@@ -222,9 +231,18 @@
    "logo": "logos/ee8c4a8d6a89.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 3,
-   "record": "4-2",
+   "rank": 2,
+   "record": "5-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "93:100",
+     "opponent": "San Pablo Burgos",
+     "venue": "A",
+     "date": "08.11. 11:30",
+     "pf": 100,
+     "pa": 93
+    },
     {
      "wl": "W",
      "score": "79:111",
@@ -260,18 +278,18 @@
      "date": "11.10. 17:00",
      "pf": 86,
      "pa": 89
-    },
-    {
-     "wl": "W",
-     "score": "82:97",
-     "opponent": "Basket Zaragoza",
-     "venue": "A",
-     "date": "04.10. 15:00",
-     "pf": 97,
-     "pa": 82
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "93:100",
+     "opponent": "San Pablo Burgos",
+     "venue": "A",
+     "date": "08.11. 11:30",
+     "pf": 100,
+     "pa": 93
+    },
     {
      "wl": "W",
      "score": "79:111",
@@ -463,9 +481,18 @@
    "logo": "logos/a8e763b6b424.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 6,
-   "record": "5-0",
+   "rank": 3,
+   "record": "6-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "81:83",
+     "opponent": "Maroussi",
+     "venue": "A",
+     "date": "08.11. 15:30",
+     "pf": 83,
+     "pa": 81
+    },
     {
      "wl": "W",
      "score": "91:62",
@@ -501,18 +528,18 @@
      "date": "11.10. 10:00",
      "pf": 99,
      "pa": 83
-    },
-    {
-     "wl": "W",
-     "score": "68:78",
-     "opponent": "Iraklis",
-     "venue": "A",
-     "date": "04.10. 14:30",
-     "pf": 78,
-     "pa": 68
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "81:83",
+     "opponent": "Maroussi",
+     "venue": "A",
+     "date": "08.11. 15:30",
+     "pf": 83,
+     "pa": 81
+    },
     {
      "wl": "W",
      "score": "91:62",
@@ -560,8 +587,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 15:30",
-    "opponent": "Maroussi"
+    "date": "15.11. 15:30",
+    "opponent": "Aris"
    },
    "note": ""
   },
@@ -677,9 +704,18 @@
    "logo": "logos/1bb9853748d7.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 7,
-   "record": "4-2",
+   "rank": 6,
+   "record": "5-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "99:91",
+     "opponent": "Breogan",
+     "venue": "H",
+     "date": "08.11. 11:00",
+     "pf": 99,
+     "pa": 91
+    },
     {
      "wl": "W",
      "score": "89:92",
@@ -715,18 +751,18 @@
      "date": "11.10. 17:00",
      "pf": 89,
      "pa": 86
-    },
-    {
-     "wl": "L",
-     "score": "100:94",
-     "opponent": "Murcia",
-     "venue": "A",
-     "date": "04.10. 17:00",
-     "pf": 94,
-     "pa": 100
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "99:91",
+     "opponent": "Breogan",
+     "venue": "H",
+     "date": "08.11. 11:00",
+     "pf": 99,
+     "pa": 91
+    },
     {
      "wl": "W",
      "score": "89:92",
@@ -899,8 +935,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 18:00",
-    "opponent": "Murcia"
+    "date": "15.11. 18:00",
+    "opponent": "Baskonia"
    },
    "note": ""
   },
@@ -999,8 +1035,17 @@
    "league": "LKL",
    "league_logo": "logos/c5eddc9adb50.png",
    "rank": 1,
-   "record": "8-0",
+   "record": "9-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "85:94",
+     "opponent": "Juventus",
+     "venue": "A",
+     "date": "08.11. 14:50",
+     "pf": 94,
+     "pa": 85
+    },
     {
      "wl": "W",
      "score": "89:94",
@@ -1036,18 +1081,18 @@
      "date": "11.10. 14:00",
      "pf": 80,
      "pa": 76
-    },
-    {
-     "wl": "W",
-     "score": "97:68",
-     "opponent": "Lietkabelis",
-     "venue": "H",
-     "date": "04.10. 13:50",
-     "pf": 97,
-     "pa": 68
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "85:94",
+     "opponent": "Juventus",
+     "venue": "A",
+     "date": "08.11. 14:50",
+     "pf": 94,
+     "pa": 85
+    },
     {
      "wl": "W",
      "score": "89:94",
@@ -1122,8 +1167,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 14:50",
-    "opponent": "Juventus"
+    "date": "15.11. 14:50",
+    "opponent": "Neptunas"
    },
    "note": ""
   },
@@ -1133,8 +1178,17 @@
    "league": "Adrijos lyga",
    "league_logo": "logos/9cba694f5f88.png",
    "rank": 1,
-   "record": "5-0",
+   "record": "6-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "92:80",
+     "opponent": "Studentski Centar",
+     "venue": "H",
+     "date": "08.11. 12:00",
+     "pf": 92,
+     "pa": 80
+    },
     {
      "wl": "W",
      "score": "97:77",
@@ -1170,18 +1224,18 @@
      "date": "11.10. 18:00",
      "pf": 99,
      "pa": 78
-    },
-    {
-     "wl": "W",
-     "score": "83:59",
-     "opponent": "Mega Basket",
-     "venue": "H",
-     "date": "05.10. 16:30",
-     "pf": 83,
-     "pa": 59
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "92:80",
+     "opponent": "Studentski Centar",
+     "venue": "H",
+     "date": "08.11. 12:00",
+     "pf": 92,
+     "pa": 80
+    },
     {
      "wl": "W",
      "score": "97:77",
@@ -1239,9 +1293,18 @@
    "logo": "logos/305eb70ac696.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 5,
-   "record": "5-1",
+   "rank": 4,
+   "record": "5-2",
    "last5": [
+    {
+     "wl": "L",
+     "score": "87:93",
+     "opponent": "Tofas",
+     "venue": "H",
+     "date": "08.11. 12:30",
+     "pf": 87,
+     "pa": 93
+    },
     {
      "wl": "W",
      "score": "77:87",
@@ -1277,18 +1340,18 @@
      "date": "11.10. 12:30",
      "pf": 85,
      "pa": 76
-    },
-    {
-     "wl": "W",
-     "score": "79:85",
-     "opponent": "Bordo Bandirma",
-     "venue": "A",
-     "date": "04.10. 15:00",
-     "pf": 85,
-     "pa": 79
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "87:93",
+     "opponent": "Tofas",
+     "venue": "H",
+     "date": "08.11. 12:30",
+     "pf": 87,
+     "pa": 93
+    },
     {
      "wl": "W",
      "score": "77:87",
@@ -1471,9 +1534,18 @@
    "logo": "logos/32485d516fe0.png",
    "league": "LNB",
    "league_logo": "logos/c611aab280e5.png",
-   "rank": 2,
-   "record": "6-1",
+   "rank": 1,
+   "record": "7-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "107:77",
+     "opponent": "JL Bourg",
+     "venue": "H",
+     "date": "08.11. 15:30",
+     "pf": 107,
+     "pa": 77
+    },
     {
      "wl": "L",
      "score": "94:90",
@@ -1509,18 +1581,18 @@
      "date": "18.10. 14:30",
      "pf": 90,
      "pa": 75
-    },
-    {
-     "wl": "W",
-     "score": "98:84",
-     "opponent": "Strasbourg",
-     "venue": "H",
-     "date": "11.10. 14:30",
-     "pf": 98,
-     "pa": 84
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "107:77",
+     "opponent": "JL Bourg",
+     "venue": "H",
+     "date": "08.11. 15:30",
+     "pf": 107,
+     "pa": 77
+    },
     {
      "wl": "L",
      "score": "94:90",
@@ -1586,8 +1658,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 15:30",
-    "opponent": "JL Bourg"
+    "date": "14.11. 19:30",
+    "opponent": "Limoges"
    },
    "note": ""
   },
@@ -1596,7 +1668,7 @@
    "logo": "logos/a521f88d4d91.png",
    "league": "Lega A",
    "league_logo": "logos/a535f34abeaf.png",
-   "rank": 1,
+   "rank": 2,
    "record": "5-1",
    "last5": [
     {
@@ -1838,8 +1910,17 @@
    "league": "BBL",
    "league_logo": "logos/98572a4b17ba.png",
    "rank": 1,
-   "record": "6-1",
+   "record": "7-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "73:94",
+     "opponent": "Wurzburg",
+     "venue": "A",
+     "date": "08.11. 17:00",
+     "pf": 94,
+     "pa": 73
+    },
     {
      "wl": "W",
      "score": "108:66",
@@ -1875,18 +1956,18 @@
      "date": "10.10. 14:00",
      "pf": 87,
      "pa": 83
-    },
-    {
-     "wl": "W",
-     "score": "113:60",
-     "opponent": "Oldenburg",
-     "venue": "H",
-     "date": "04.10. 13:00",
-     "pf": 113,
-     "pa": 60
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "73:94",
+     "opponent": "Wurzburg",
+     "venue": "A",
+     "date": "08.11. 17:00",
+     "pf": 94,
+     "pa": 73
+    },
     {
      "wl": "W",
      "score": "108:66",
@@ -1952,8 +2033,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 17:00",
-    "opponent": "Wurzburg"
+    "date": "15.11. 15:30",
+    "opponent": "Syntainics MBC"
    },
    "note": ""
   },
@@ -1962,7 +2043,7 @@
    "logo": "logos/06951b3cfab7.png",
    "league": "Super League",
    "league_logo": "logos/7af634241793.png",
-   "rank": 6,
+   "rank": 7,
    "record": "2-2",
    "last5": [
     {
@@ -2051,9 +2132,18 @@
    "logo": "logos/8ba53e5cb6fd.png",
    "league": "Lega A",
    "league_logo": "logos/a535f34abeaf.png",
-   "rank": 4,
-   "record": "4-2",
+   "rank": 3,
+   "record": "5-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "88:86",
+     "opponent": "Trento",
+     "venue": "H",
+     "date": "08.11. 16:00",
+     "pf": 88,
+     "pa": 86
+    },
     {
      "wl": "W",
      "score": "82:95",
@@ -2089,18 +2179,18 @@
      "date": "11.10. 14:00",
      "pf": 106,
      "pa": 77
-    },
-    {
-     "wl": "L",
-     "score": "75:72",
-     "opponent": "Verona",
-     "venue": "A",
-     "date": "05.10. 18:45",
-     "pf": 72,
-     "pa": 75
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "88:86",
+     "opponent": "Trento",
+     "venue": "H",
+     "date": "08.11. 16:00",
+     "pf": 88,
+     "pa": 86
+    },
     {
      "wl": "W",
      "score": "82:95",
@@ -2157,8 +2247,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 16:00",
-    "opponent": "Trento"
+    "date": "15.11. 17:15",
+    "opponent": "Udine"
    },
    "note": ""
   },
@@ -2167,7 +2257,7 @@
    "logo": "logos/98ab31536eee.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 2,
+   "rank": 3,
    "record": "5-2",
    "last5": [
     {
