@@ -1,7 +1,7 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-11-08 03:55",
- "comp_logo": "logos/a4426d3c0e5a.png",
+ "updated": "2026-11-08 12:37",
+ "comp_logo": "logos/5023133ad812.png",
  "teams": [
   {
    "name": "Panathinaikos",
@@ -105,8 +105,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 11:00",
-    "opponent": "AEK Athens"
+    "date": "15.11. 11:00",
+    "opponent": "Kolossos Rhodes"
    },
    "note": ""
   },
@@ -328,8 +328,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 11:30",
-    "opponent": "San Pablo Burgos"
+    "date": "15.11. 11:00",
+    "opponent": "Leyma Coruna"
    },
    "note": ""
   },
@@ -338,7 +338,7 @@
    "logo": "logos/ce0512d2b115.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 2,
+   "rank": 3,
    "record": "5-2",
    "last5": [
     {
@@ -783,8 +783,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 11:00",
-    "opponent": "Breogan"
+    "date": "15.11. 16:00",
+    "opponent": "Obradoiro CAB"
    },
    "note": ""
   },
@@ -1229,8 +1229,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 12:00",
-    "opponent": "Studentski Centar"
+    "date": "14.11. 17:30",
+    "opponent": "Zadar"
    },
    "note": ""
   },
@@ -1239,7 +1239,7 @@
    "logo": "logos/305eb70ac696.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 4,
+   "rank": 5,
    "record": "5-1",
    "last5": [
     {
@@ -1345,8 +1345,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 12:30",
-    "opponent": "Tofas"
+    "date": "15.11. 17:30",
+    "opponent": "Fenerbahce"
    },
    "note": ""
   },
