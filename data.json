@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-11-08 19:16",
+ "updated": "2026-11-09 00:26",
  "comp_logo": "logos/5023133ad812.png",
  "teams": [
   {
@@ -830,8 +830,17 @@
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
    "rank": 1,
-   "record": "6-0",
+   "record": "7-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "90:71",
+     "opponent": "Murcia",
+     "venue": "H",
+     "date": "08.11. 18:00",
+     "pf": 90,
+     "pa": 71
+    },
     {
      "wl": "W",
      "score": "90:79",
@@ -867,18 +876,18 @@
      "date": "11.10. 10:00",
      "pf": 120,
      "pa": 83
-    },
-    {
-     "wl": "W",
-     "score": "107:114",
-     "opponent": "Obradoiro CAB",
-     "venue": "A",
-     "date": "04.10. 10:30",
-     "pf": 114,
-     "pa": 107
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "90:71",
+     "opponent": "Murcia",
+     "venue": "H",
+     "date": "08.11. 18:00",
+     "pf": 90,
+     "pa": 71
+    },
     {
      "wl": "W",
      "score": "90:79",
@@ -1784,7 +1793,7 @@
    "logo": "logos/59cea8016204.png",
    "league": "LNB",
    "league_logo": "logos/c611aab280e5.png",
-   "rank": 3,
+   "rank": 4,
    "record": "6-1",
    "last5": [
     {
