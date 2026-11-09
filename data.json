@@ -1,7 +1,7 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-11-09 10:47",
- "comp_logo": "logos/5023133ad812.png",
+ "updated": "2026-11-09 21:50",
+ "comp_logo": "logos/a4426d3c0e5a.png",
  "teams": [
   {
    "name": "Panathinaikos",
@@ -124,9 +124,18 @@
    "logo": "logos/69a25cbc4b87.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/9cba694f5f88.png",
-   "rank": 3,
-   "record": "4-1",
+   "rank": 1,
+   "record": "5-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "91:80",
+     "opponent": "Slovan Bratislava",
+     "venue": "H",
+     "date": "09.11. 17:00",
+     "pf": 91,
+     "pa": 80
+    },
     {
      "wl": "W",
      "score": "100:82",
@@ -162,18 +171,18 @@
      "date": "10.10. 19:00",
      "pf": 101,
      "pa": 91
-    },
-    {
-     "wl": "L",
-     "score": "90:89",
-     "opponent": "FMP Beograd",
-     "venue": "A",
-     "date": "04.10. 16:00",
-     "pf": 89,
-     "pa": 90
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "91:80",
+     "opponent": "Slovan Bratislava",
+     "venue": "H",
+     "date": "09.11. 17:00",
+     "pf": 91,
+     "pa": 80
+    },
     {
      "wl": "W",
      "score": "100:82",
@@ -221,8 +230,8 @@
     }
    ],
    "next": {
-    "date": "09.11. 17:00",
-    "opponent": "Slovan Bratislava"
+    "date": "15.11. 17:30",
+    "opponent": "Cedevita Olimpija"
    },
    "note": ""
   },
@@ -230,7 +239,7 @@
    "name": "Valencia",
    "logo": "logos/ee8c4a8d6a89.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 2,
    "record": "5-2",
    "last5": [
@@ -598,8 +607,17 @@
    "league": "Adrijos lyga",
    "league_logo": "logos/9cba694f5f88.png",
    "rank": 2,
-   "record": "5-0",
+   "record": "6-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "87:98",
+     "opponent": "Mega Basket",
+     "venue": "A",
+     "date": "09.11. 19:00",
+     "pf": 98,
+     "pa": 87
+    },
     {
      "wl": "W",
      "score": "89:75",
@@ -635,18 +653,18 @@
      "date": "11.10. 10:00",
      "pf": 92,
      "pa": 85
-    },
-    {
-     "wl": "W",
-     "score": "70:85",
-     "opponent": "Perspektiva Ilirija",
-     "venue": "A",
-     "date": "04.10. 18:00",
-     "pf": 85,
-     "pa": 70
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "87:98",
+     "opponent": "Mega Basket",
+     "venue": "A",
+     "date": "09.11. 19:00",
+     "pf": 98,
+     "pa": 87
+    },
     {
      "wl": "W",
      "score": "89:75",
@@ -694,8 +712,8 @@
     }
    ],
    "next": {
-    "date": "09.11. 19:00",
-    "opponent": "Mega Basket"
+    "date": "15.11. 09:00",
+    "opponent": "Spartak Subotica"
    },
    "note": ""
   },
@@ -703,7 +721,7 @@
    "name": "Barcelona",
    "logo": "logos/1bb9853748d7.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 6,
    "record": "5-2",
    "last5": [
@@ -828,7 +846,7 @@
    "name": "Real Madrid",
    "logo": "logos/f377a388f5c4.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 1,
    "record": "7-0",
    "last5": [
@@ -1427,9 +1445,18 @@
    "logo": "logos/2c1420f05f20.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 11,
-   "record": "3-3",
+   "rank": 10,
+   "record": "3-4",
    "last5": [
+    {
+     "wl": "L",
+     "score": "84:83",
+     "opponent": "Karsiyaka",
+     "venue": "A",
+     "date": "09.11. 16:00",
+     "pf": 83,
+     "pa": 84
+    },
     {
      "wl": "W",
      "score": "93:76",
@@ -1465,18 +1492,18 @@
      "date": "11.10. 15:00",
      "pf": 63,
      "pa": 88
-    },
-    {
-     "wl": "W",
-     "score": "90:81",
-     "opponent": "Trabzonspor",
-     "venue": "H",
-     "date": "05.10. 16:00",
-     "pf": 90,
-     "pa": 81
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "84:83",
+     "opponent": "Karsiyaka",
+     "venue": "A",
+     "date": "09.11. 16:00",
+     "pf": 83,
+     "pa": 84
+    },
     {
      "wl": "W",
      "score": "93:76",
@@ -1533,8 +1560,8 @@
     }
    ],
    "next": {
-    "date": "09.11. 16:00",
-    "opponent": "Karsiyaka"
+    "date": "15.11. 15:00",
+    "opponent": "Bursaspor"
    },
    "note": ""
   },
@@ -1677,9 +1704,18 @@
    "logo": "logos/a521f88d4d91.png",
    "league": "Lega A",
    "league_logo": "logos/a535f34abeaf.png",
-   "rank": 2,
-   "record": "5-1",
+   "rank": 1,
+   "record": "6-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "95:81",
+     "opponent": "Verona",
+     "venue": "H",
+     "date": "09.11. 19:00",
+     "pf": 95,
+     "pa": 81
+    },
     {
      "wl": "L",
      "score": "93:100",
@@ -1715,18 +1751,18 @@
      "date": "11.10. 17:00",
      "pf": 93,
      "pa": 86
-    },
-    {
-     "wl": "W",
-     "score": "98:89",
-     "opponent": "Maxima Roma",
-     "venue": "H",
-     "date": "04.10. 16:15",
-     "pf": 98,
-     "pa": 89
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "95:81",
+     "opponent": "Verona",
+     "venue": "H",
+     "date": "09.11. 19:00",
+     "pf": 95,
+     "pa": 81
+    },
     {
      "wl": "L",
      "score": "93:100",
@@ -1783,8 +1819,8 @@
     }
    ],
    "next": {
-    "date": "09.11. 19:00",
-    "opponent": "Verona"
+    "date": "15.11. 18:00",
+    "opponent": "Trento"
    },
    "note": ""
   },
@@ -2052,7 +2088,7 @@
    "logo": "logos/06951b3cfab7.png",
    "league": "Super League",
    "league_logo": "logos/7af634241793.png",
-   "rank": 7,
+   "rank": 8,
    "record": "2-2",
    "last5": [
     {
@@ -2265,7 +2301,7 @@
    "name": "Baskonia",
    "logo": "logos/98ab31536eee.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 3,
    "record": "5-2",
    "last5": [
