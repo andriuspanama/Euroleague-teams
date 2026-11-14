@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-11-14 12:51",
+ "updated": "2026-11-14 19:39",
  "comp_logo": "logos/a4426d3c0e5a.png",
  "teams": [
   {
@@ -133,7 +133,7 @@
    "logo": "logos/9c75fb783005.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 5,
+   "rank": 7,
    "record": "5-1",
    "last5": [
     {
@@ -249,7 +249,7 @@
    "logo": "logos/a8e763b6b424.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 3,
+   "rank": 4,
    "record": "6-0",
    "last5": [
     {
@@ -365,7 +365,7 @@
    "logo": "logos/1bb9853748d7.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 6,
+   "rank": 7,
    "record": "5-2",
    "last5": [
     {
@@ -615,7 +615,7 @@
    "logo": "logos/69a25cbc4b87.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/9cba694f5f88.png",
-   "rank": 1,
+   "rank": 2,
    "record": "5-1",
    "last5": [
     {
@@ -731,7 +731,7 @@
    "logo": "logos/ce0512d2b115.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 4,
+   "rank": 5,
    "record": "5-2",
    "last5": [
     {
@@ -855,7 +855,7 @@
    "name": "Zalgiris Kaunas",
    "logo": "logos/207f4b8cf1bd.png",
    "league": "LKL",
-   "league_logo": "logos/e5d4a9d7c1bb.png",
+   "league_logo": "logos/c5eddc9adb50.png",
    "rank": 1,
    "record": "9-0",
    "last5": [
@@ -1114,10 +1114,19 @@
    "name": "Hapoel Tel Aviv",
    "logo": "logos/fb32ddc6ad65.png",
    "league": "Super League",
-   "league_logo": "logos/07d3791c1460.png",
+   "league_logo": "logos/7af634241793.png",
    "rank": 2,
-   "record": "3-1",
+   "record": "4-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "78:71",
+     "opponent": "Bnei Herzliya",
+     "venue": "H",
+     "date": "14.11. 16:30",
+     "pf": 78,
+     "pa": 71
+    },
     {
      "wl": "W",
      "score": "87:105",
@@ -1156,6 +1165,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "78:71",
+     "opponent": "Bnei Herzliya",
+     "venue": "H",
+     "date": "14.11. 16:30",
+     "pf": 78,
+     "pa": 71
+    },
     {
      "wl": "W",
      "score": "87:105",
@@ -1194,8 +1212,8 @@
     }
    ],
    "next": {
-    "date": "14.11. 16:30",
-    "opponent": "Bnei Herzliya"
+    "date": "21.11. 16:30",
+    "opponent": "Ironi Kiryat Ata"
    },
    "note": ""
   },
@@ -1205,8 +1223,17 @@
    "league": "Adrijos lyga",
    "league_logo": "logos/9cba694f5f88.png",
    "rank": 1,
-   "record": "6-0",
+   "record": "6-1",
    "last5": [
+    {
+     "wl": "L",
+     "score": "81:74",
+     "opponent": "Zadar",
+     "venue": "A",
+     "date": "14.11. 17:30",
+     "pf": 74,
+     "pa": 81
+    },
     {
      "wl": "W",
      "score": "92:80",
@@ -1242,18 +1269,18 @@
      "date": "18.10. 12:00",
      "pf": 89,
      "pa": 84
-    },
-    {
-     "wl": "W",
-     "score": "99:78",
-     "opponent": "Vienna Basket",
-     "venue": "H",
-     "date": "11.10. 18:00",
-     "pf": 99,
-     "pa": 78
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "81:74",
+     "opponent": "Zadar",
+     "venue": "A",
+     "date": "14.11. 17:30",
+     "pf": 74,
+     "pa": 81
+    },
     {
      "wl": "W",
      "score": "92:80",
@@ -1310,8 +1337,8 @@
     }
    ],
    "next": {
-    "date": "14.11. 17:30",
-    "opponent": "Zadar"
+    "date": "22.11. 18:30",
+    "opponent": "Dubai"
    },
    "note": ""
   },
@@ -1320,7 +1347,7 @@
    "logo": "logos/305eb70ac696.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 5,
+   "rank": 7,
    "record": "5-2",
    "last5": [
     {
@@ -1445,7 +1472,7 @@
    "logo": "logos/2c1420f05f20.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 10,
+   "rank": 13,
    "record": "3-4",
    "last5": [
     {
@@ -1694,8 +1721,8 @@
     }
    ],
    "next": {
-    "date": "14.11. 19:30",
-    "opponent": "Limoges"
+    "date": "22.11. 15:30",
+    "opponent": "Gravelines-Dunkerque"
    },
    "note": ""
   },
@@ -1953,7 +1980,7 @@
    "name": "Maccabi Tel Aviv",
    "logo": "logos/06951b3cfab7.png",
    "league": "Super League",
-   "league_logo": "logos/07d3791c1460.png",
+   "league_logo": "logos/7af634241793.png",
    "rank": 8,
    "record": "2-2",
    "last5": [
@@ -2033,8 +2060,8 @@
     }
    ],
    "next": {
-    "date": "14.11. 18:55",
-    "opponent": "Hapoel Jerusalem"
+    "date": "21.11. 18:55",
+    "opponent": "Hapoel Holon"
    },
    "note": ""
   },
