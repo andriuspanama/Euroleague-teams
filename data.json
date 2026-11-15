@@ -1,14 +1,14 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-11-14 19:39",
- "comp_logo": "logos/a4426d3c0e5a.png",
+ "updated": "2026-11-15 00:38",
+ "comp_logo": "logos/5023133ad812.png",
  "teams": [
   {
    "name": "Valencia",
    "logo": "logos/ee8c4a8d6a89.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 2,
+   "rank": 3,
    "record": "5-2",
    "last5": [
     {
@@ -1114,7 +1114,7 @@
    "name": "Hapoel Tel Aviv",
    "logo": "logos/fb32ddc6ad65.png",
    "league": "Super League",
-   "league_logo": "logos/7af634241793.png",
+   "league_logo": "logos/07d3791c1460.png",
    "rank": 2,
    "record": "4-1",
    "last5": [
@@ -1596,10 +1596,19 @@
    "name": "Paris",
    "logo": "logos/32485d516fe0.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 1,
-   "record": "7-1",
+   "record": "8-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "82:97",
+     "opponent": "Limoges",
+     "venue": "A",
+     "date": "14.11. 19:30",
+     "pf": 97,
+     "pa": 82
+    },
     {
      "wl": "W",
      "score": "107:77",
@@ -1635,18 +1644,18 @@
      "date": "25.10. 15:00",
      "pf": 96,
      "pa": 75
-    },
-    {
-     "wl": "W",
-     "score": "90:75",
-     "opponent": "Boulazac",
-     "venue": "H",
-     "date": "18.10. 14:30",
-     "pf": 90,
-     "pa": 75
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "82:97",
+     "opponent": "Limoges",
+     "venue": "A",
+     "date": "14.11. 19:30",
+     "pf": 97,
+     "pa": 82
+    },
     {
      "wl": "W",
      "score": "107:77",
@@ -1730,7 +1739,7 @@
    "name": "Lyon-Villeurbanne",
    "logo": "logos/59cea8016204.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 4,
    "record": "6-1",
    "last5": [
@@ -1855,7 +1864,7 @@
    "name": "Virtus Bologna",
    "logo": "logos/a521f88d4d91.png",
    "league": "Lega A",
-   "league_logo": "logos/a535f34abeaf.png",
+   "league_logo": "logos/b55c66fda764.png",
    "rank": 1,
    "record": "6-1",
    "last5": [
@@ -1980,10 +1989,19 @@
    "name": "Maccabi Tel Aviv",
    "logo": "logos/06951b3cfab7.png",
    "league": "Super League",
-   "league_logo": "logos/7af634241793.png",
+   "league_logo": "logos/07d3791c1460.png",
    "rank": 8,
-   "record": "2-2",
+   "record": "2-3",
    "last5": [
+    {
+     "wl": "L",
+     "score": "77:82",
+     "opponent": "Hapoel Jerusalem",
+     "venue": "H",
+     "date": "14.11. 18:55",
+     "pf": 77,
+     "pa": 82
+    },
     {
      "wl": "L",
      "score": "87:105",
@@ -2022,6 +2040,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "77:82",
+     "opponent": "Hapoel Jerusalem",
+     "venue": "H",
+     "date": "14.11. 18:55",
+     "pf": 77,
+     "pa": 82
+    },
     {
      "wl": "L",
      "score": "87:105",
@@ -2203,7 +2230,7 @@
    "name": "Olimpia Milano",
    "logo": "logos/8ba53e5cb6fd.png",
    "league": "Lega A",
-   "league_logo": "logos/a535f34abeaf.png",
+   "league_logo": "logos/b55c66fda764.png",
    "rank": 3,
    "record": "5-2",
    "last5": [
@@ -2329,7 +2356,7 @@
    "logo": "logos/98ab31536eee.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 3,
+   "rank": 4,
    "record": "5-2",
    "last5": [
     {
