@@ -1,13 +1,13 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-11-17 06:05",
- "comp_logo": "logos/5023133ad812.png",
+ "updated": "2026-11-17 18:04",
+ "comp_logo": "logos/a4426d3c0e5a.png",
  "teams": [
   {
    "name": "Valencia",
    "logo": "logos/ee8c4a8d6a89.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 2,
    "record": "6-2",
    "last5": [
@@ -391,7 +391,7 @@
    "name": "Barcelona",
    "logo": "logos/1bb9853748d7.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 4,
    "record": "6-2",
    "last5": [
@@ -525,7 +525,7 @@
    "name": "Real Madrid",
    "logo": "logos/f377a388f5c4.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 1,
    "record": "8-0",
    "last5": [
@@ -2490,7 +2490,7 @@
    "name": "Baskonia",
    "logo": "logos/98ab31536eee.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 5,
    "record": "5-3",
    "last5": [
