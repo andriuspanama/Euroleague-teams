@@ -1,13 +1,13 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-11-17 18:04",
+ "updated": "2026-11-18 02:42",
  "comp_logo": "logos/a4426d3c0e5a.png",
  "teams": [
   {
    "name": "Valencia",
    "logo": "logos/ee8c4a8d6a89.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 2,
    "record": "6-2",
    "last5": [
@@ -138,131 +138,6 @@
    "note": ""
   },
   {
-   "name": "Panathinaikos",
-   "logo": "logos/9c75fb783005.png",
-   "league": "Basket League",
-   "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 3,
-   "record": "6-1",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "78:73",
-     "opponent": "Kolossos Rhodes",
-     "venue": "H",
-     "date": "15.11. 11:00",
-     "pf": 78,
-     "pa": 73
-    },
-    {
-     "wl": "W",
-     "score": "74:83",
-     "opponent": "AEK Athens",
-     "venue": "A",
-     "date": "08.11. 11:00",
-     "pf": 83,
-     "pa": 74
-    },
-    {
-     "wl": "L",
-     "score": "101:91",
-     "opponent": "Aris",
-     "venue": "A",
-     "date": "01.11. 15:00",
-     "pf": 91,
-     "pa": 101
-    },
-    {
-     "wl": "W",
-     "score": "78:64",
-     "opponent": "AS Karditsas",
-     "venue": "H",
-     "date": "24.10. 16:00",
-     "pf": 78,
-     "pa": 64
-    },
-    {
-     "wl": "W",
-     "score": "95:75",
-     "opponent": "Peristeri",
-     "venue": "H",
-     "date": "18.10. 10:00",
-     "pf": 95,
-     "pa": 75
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "78:73",
-     "opponent": "Kolossos Rhodes",
-     "venue": "H",
-     "date": "15.11. 11:00",
-     "pf": 78,
-     "pa": 73
-    },
-    {
-     "wl": "W",
-     "score": "74:83",
-     "opponent": "AEK Athens",
-     "venue": "A",
-     "date": "08.11. 11:00",
-     "pf": 83,
-     "pa": 74
-    },
-    {
-     "wl": "L",
-     "score": "101:91",
-     "opponent": "Aris",
-     "venue": "A",
-     "date": "01.11. 15:00",
-     "pf": 91,
-     "pa": 101
-    },
-    {
-     "wl": "W",
-     "score": "78:64",
-     "opponent": "AS Karditsas",
-     "venue": "H",
-     "date": "24.10. 16:00",
-     "pf": 78,
-     "pa": 64
-    },
-    {
-     "wl": "W",
-     "score": "95:75",
-     "opponent": "Peristeri",
-     "venue": "H",
-     "date": "18.10. 10:00",
-     "pf": 95,
-     "pa": 75
-    },
-    {
-     "wl": "W",
-     "score": "59:84",
-     "opponent": "Promitheas",
-     "venue": "A",
-     "date": "10.10. 16:00",
-     "pf": 84,
-     "pa": 59
-    },
-    {
-     "wl": "W",
-     "score": "103:74",
-     "opponent": "Vikos",
-     "venue": "H",
-     "date": "04.10. 10:00",
-     "pf": 103,
-     "pa": 74
-    }
-   ],
-   "next": {
-    "date": "21.11. 15:30",
-    "opponent": "Maroussi"
-   },
-   "note": ""
-  },
-  {
    "name": "Olympiacos",
    "logo": "logos/a8e763b6b424.png",
    "league": "Basket League",
@@ -388,10 +263,421 @@
    "note": ""
   },
   {
+   "name": "Fenerbahce",
+   "logo": "logos/ce0512d2b115.png",
+   "league": "Super Lig",
+   "league_logo": "logos/577d84baf758.png",
+   "rank": 3,
+   "record": "6-2",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "77:75",
+     "opponent": "Anadolu Efes",
+     "venue": "H",
+     "date": "15.11. 17:30",
+     "pf": 77,
+     "pa": 75
+    },
+    {
+     "wl": "W",
+     "score": "59:78",
+     "opponent": "Bursaspor",
+     "venue": "A",
+     "date": "07.11. 17:30",
+     "pf": 78,
+     "pa": 59
+    },
+    {
+     "wl": "W",
+     "score": "88:77",
+     "opponent": "Tofas",
+     "venue": "H",
+     "date": "01.11. 12:30",
+     "pf": 88,
+     "pa": 77
+    },
+    {
+     "wl": "W",
+     "score": "72:97",
+     "opponent": "Karsiyaka",
+     "venue": "A",
+     "date": "25.10. 12:30",
+     "pf": 97,
+     "pa": 72
+    },
+    {
+     "wl": "L",
+     "score": "77:82",
+     "opponent": "Petkim Spor",
+     "venue": "H",
+     "date": "18.10. 12:30",
+     "pf": 77,
+     "pa": 82
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "77:75",
+     "opponent": "Anadolu Efes",
+     "venue": "H",
+     "date": "15.11. 17:30",
+     "pf": 77,
+     "pa": 75
+    },
+    {
+     "wl": "W",
+     "score": "59:78",
+     "opponent": "Bursaspor",
+     "venue": "A",
+     "date": "07.11. 17:30",
+     "pf": 78,
+     "pa": 59
+    },
+    {
+     "wl": "W",
+     "score": "88:77",
+     "opponent": "Tofas",
+     "venue": "H",
+     "date": "01.11. 12:30",
+     "pf": 88,
+     "pa": 77
+    },
+    {
+     "wl": "W",
+     "score": "72:97",
+     "opponent": "Karsiyaka",
+     "venue": "A",
+     "date": "25.10. 12:30",
+     "pf": 97,
+     "pa": 72
+    },
+    {
+     "wl": "L",
+     "score": "77:82",
+     "opponent": "Petkim Spor",
+     "venue": "H",
+     "date": "18.10. 12:30",
+     "pf": 77,
+     "pa": 82
+    },
+    {
+     "wl": "W",
+     "score": "85:100",
+     "opponent": "Cayirova",
+     "venue": "A",
+     "date": "10.10. 17:30",
+     "pf": 100,
+     "pa": 85
+    },
+    {
+     "wl": "W",
+     "score": "85:84",
+     "opponent": "Korfez Basket",
+     "venue": "H",
+     "date": "04.10. 12:30",
+     "pf": 85,
+     "pa": 84
+    },
+    {
+     "wl": "L",
+     "score": "98:83",
+     "opponent": "Bahcesehir Kol.",
+     "venue": "A",
+     "date": "27.09. 15:00",
+     "pf": 83,
+     "pa": 98
+    }
+   ],
+   "next": {
+    "date": "22.11. 17:30",
+    "opponent": "Besiktas"
+   },
+   "note": ""
+  },
+  {
+   "name": "Panathinaikos",
+   "logo": "logos/9c75fb783005.png",
+   "league": "Basket League",
+   "league_logo": "logos/21f5bcd543ba.png",
+   "rank": 3,
+   "record": "6-1",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "78:73",
+     "opponent": "Kolossos Rhodes",
+     "venue": "H",
+     "date": "15.11. 11:00",
+     "pf": 78,
+     "pa": 73
+    },
+    {
+     "wl": "W",
+     "score": "74:83",
+     "opponent": "AEK Athens",
+     "venue": "A",
+     "date": "08.11. 11:00",
+     "pf": 83,
+     "pa": 74
+    },
+    {
+     "wl": "L",
+     "score": "101:91",
+     "opponent": "Aris",
+     "venue": "A",
+     "date": "01.11. 15:00",
+     "pf": 91,
+     "pa": 101
+    },
+    {
+     "wl": "W",
+     "score": "78:64",
+     "opponent": "AS Karditsas",
+     "venue": "H",
+     "date": "24.10. 16:00",
+     "pf": 78,
+     "pa": 64
+    },
+    {
+     "wl": "W",
+     "score": "95:75",
+     "opponent": "Peristeri",
+     "venue": "H",
+     "date": "18.10. 10:00",
+     "pf": 95,
+     "pa": 75
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "78:73",
+     "opponent": "Kolossos Rhodes",
+     "venue": "H",
+     "date": "15.11. 11:00",
+     "pf": 78,
+     "pa": 73
+    },
+    {
+     "wl": "W",
+     "score": "74:83",
+     "opponent": "AEK Athens",
+     "venue": "A",
+     "date": "08.11. 11:00",
+     "pf": 83,
+     "pa": 74
+    },
+    {
+     "wl": "L",
+     "score": "101:91",
+     "opponent": "Aris",
+     "venue": "A",
+     "date": "01.11. 15:00",
+     "pf": 91,
+     "pa": 101
+    },
+    {
+     "wl": "W",
+     "score": "78:64",
+     "opponent": "AS Karditsas",
+     "venue": "H",
+     "date": "24.10. 16:00",
+     "pf": 78,
+     "pa": 64
+    },
+    {
+     "wl": "W",
+     "score": "95:75",
+     "opponent": "Peristeri",
+     "venue": "H",
+     "date": "18.10. 10:00",
+     "pf": 95,
+     "pa": 75
+    },
+    {
+     "wl": "W",
+     "score": "59:84",
+     "opponent": "Promitheas",
+     "venue": "A",
+     "date": "10.10. 16:00",
+     "pf": 84,
+     "pa": 59
+    },
+    {
+     "wl": "W",
+     "score": "103:74",
+     "opponent": "Vikos",
+     "venue": "H",
+     "date": "04.10. 10:00",
+     "pf": 103,
+     "pa": 74
+    }
+   ],
+   "next": {
+    "date": "21.11. 15:30",
+    "opponent": "Maroussi"
+   },
+   "note": ""
+  },
+  {
+   "name": "Zalgiris Kaunas",
+   "logo": "logos/207f4b8cf1bd.png",
+   "league": "LKL",
+   "league_logo": "logos/c5eddc9adb50.png",
+   "rank": 1,
+   "record": "10-0",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "87:82",
+     "opponent": "Neptunas",
+     "venue": "H",
+     "date": "15.11. 14:50",
+     "pf": 87,
+     "pa": 82
+    },
+    {
+     "wl": "W",
+     "score": "85:94",
+     "opponent": "Juventus",
+     "venue": "A",
+     "date": "08.11. 14:50",
+     "pf": 94,
+     "pa": 85
+    },
+    {
+     "wl": "W",
+     "score": "89:94",
+     "opponent": "Rytas",
+     "venue": "A",
+     "date": "02.11. 14:50",
+     "pf": 94,
+     "pa": 89
+    },
+    {
+     "wl": "W",
+     "score": "86:63",
+     "opponent": "Jonava",
+     "venue": "H",
+     "date": "25.10. 14:50",
+     "pf": 86,
+     "pa": 63
+    },
+    {
+     "wl": "W",
+     "score": "96:76",
+     "opponent": "Taurage",
+     "venue": "H",
+     "date": "18.10. 16:10",
+     "pf": 96,
+     "pa": 76
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "87:82",
+     "opponent": "Neptunas",
+     "venue": "H",
+     "date": "15.11. 14:50",
+     "pf": 87,
+     "pa": 82
+    },
+    {
+     "wl": "W",
+     "score": "85:94",
+     "opponent": "Juventus",
+     "venue": "A",
+     "date": "08.11. 14:50",
+     "pf": 94,
+     "pa": 85
+    },
+    {
+     "wl": "W",
+     "score": "89:94",
+     "opponent": "Rytas",
+     "venue": "A",
+     "date": "02.11. 14:50",
+     "pf": 94,
+     "pa": 89
+    },
+    {
+     "wl": "W",
+     "score": "86:63",
+     "opponent": "Jonava",
+     "venue": "H",
+     "date": "25.10. 14:50",
+     "pf": 86,
+     "pa": 63
+    },
+    {
+     "wl": "W",
+     "score": "96:76",
+     "opponent": "Taurage",
+     "venue": "H",
+     "date": "18.10. 16:10",
+     "pf": 96,
+     "pa": 76
+    },
+    {
+     "wl": "W",
+     "score": "76:80",
+     "opponent": "Nevezis",
+     "venue": "A",
+     "date": "11.10. 14:00",
+     "pf": 80,
+     "pa": 76
+    },
+    {
+     "wl": "W",
+     "score": "97:68",
+     "opponent": "Lietkabelis",
+     "venue": "H",
+     "date": "04.10. 13:50",
+     "pf": 97,
+     "pa": 68
+    },
+    {
+     "wl": "W",
+     "score": "101:82",
+     "opponent": "Siauliai",
+     "venue": "H",
+     "date": "27.09. 13:50",
+     "pf": 101,
+     "pa": 82
+    },
+    {
+     "wl": "W",
+     "score": "69:93",
+     "opponent": "Neptunas",
+     "venue": "A",
+     "date": "20.09. 13:50",
+     "pf": 93,
+     "pa": 69
+    },
+    {
+     "wl": "W",
+     "score": "77:98",
+     "opponent": "Gargzdai",
+     "venue": "A",
+     "date": "17.09. 15:50",
+     "pf": 98,
+     "pa": 77
+    }
+   ],
+   "next": {
+    "date": "22.11. 14:50",
+    "opponent": "Lietkabelis"
+   },
+   "note": ""
+  },
+  {
    "name": "Barcelona",
    "logo": "logos/1bb9853748d7.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 4,
    "record": "6-2",
    "last5": [
@@ -522,10 +808,135 @@
    "note": ""
   },
   {
+   "name": "Dubai",
+   "logo": "logos/8f361860857d.png",
+   "league": "Adrijos lyga",
+   "league_logo": "logos/9cba694f5f88.png",
+   "rank": 1,
+   "record": "7-0",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "93:75",
+     "opponent": "Spartak Subotica",
+     "venue": "H",
+     "date": "15.11. 09:00",
+     "pf": 93,
+     "pa": 75
+    },
+    {
+     "wl": "W",
+     "score": "87:98",
+     "opponent": "Mega Basket",
+     "venue": "A",
+     "date": "09.11. 19:00",
+     "pf": 98,
+     "pa": 87
+    },
+    {
+     "wl": "W",
+     "score": "89:75",
+     "opponent": "Zadar",
+     "venue": "H",
+     "date": "02.11. 15:30",
+     "pf": 89,
+     "pa": 75
+    },
+    {
+     "wl": "W",
+     "score": "83:93",
+     "opponent": "KK Bosna",
+     "venue": "A",
+     "date": "24.10. 16:00",
+     "pf": 93,
+     "pa": 83
+    },
+    {
+     "wl": "W",
+     "score": "108:90",
+     "opponent": "Studentski Centar",
+     "venue": "H",
+     "date": "19.10. 15:30",
+     "pf": 108,
+     "pa": 90
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "93:75",
+     "opponent": "Spartak Subotica",
+     "venue": "H",
+     "date": "15.11. 09:00",
+     "pf": 93,
+     "pa": 75
+    },
+    {
+     "wl": "W",
+     "score": "87:98",
+     "opponent": "Mega Basket",
+     "venue": "A",
+     "date": "09.11. 19:00",
+     "pf": 98,
+     "pa": 87
+    },
+    {
+     "wl": "W",
+     "score": "89:75",
+     "opponent": "Zadar",
+     "venue": "H",
+     "date": "02.11. 15:30",
+     "pf": 89,
+     "pa": 75
+    },
+    {
+     "wl": "W",
+     "score": "83:93",
+     "opponent": "KK Bosna",
+     "venue": "A",
+     "date": "24.10. 16:00",
+     "pf": 93,
+     "pa": 83
+    },
+    {
+     "wl": "W",
+     "score": "108:90",
+     "opponent": "Studentski Centar",
+     "venue": "H",
+     "date": "19.10. 15:30",
+     "pf": 108,
+     "pa": 90
+    },
+    {
+     "wl": "W",
+     "score": "85:92",
+     "opponent": "Cluj-Napoca",
+     "venue": "A",
+     "date": "11.10. 10:00",
+     "pf": 92,
+     "pa": 85
+    },
+    {
+     "wl": "W",
+     "score": "70:85",
+     "opponent": "Perspektiva Ilirija",
+     "venue": "A",
+     "date": "04.10. 18:00",
+     "pf": 85,
+     "pa": 70
+    }
+   ],
+   "next": {
+    "date": "22.11. 18:30",
+    "opponent": "Partizan Mozzart Bet"
+   },
+   "note": ""
+  },
+  {
    "name": "Real Madrid",
    "logo": "logos/f377a388f5c4.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 1,
    "record": "8-0",
    "last5": [
@@ -781,417 +1192,6 @@
    "note": ""
   },
   {
-   "name": "Fenerbahce",
-   "logo": "logos/ce0512d2b115.png",
-   "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
-   "rank": 3,
-   "record": "6-2",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "77:75",
-     "opponent": "Anadolu Efes",
-     "venue": "H",
-     "date": "15.11. 17:30",
-     "pf": 77,
-     "pa": 75
-    },
-    {
-     "wl": "W",
-     "score": "59:78",
-     "opponent": "Bursaspor",
-     "venue": "A",
-     "date": "07.11. 17:30",
-     "pf": 78,
-     "pa": 59
-    },
-    {
-     "wl": "W",
-     "score": "88:77",
-     "opponent": "Tofas",
-     "venue": "H",
-     "date": "01.11. 12:30",
-     "pf": 88,
-     "pa": 77
-    },
-    {
-     "wl": "W",
-     "score": "72:97",
-     "opponent": "Karsiyaka",
-     "venue": "A",
-     "date": "25.10. 12:30",
-     "pf": 97,
-     "pa": 72
-    },
-    {
-     "wl": "L",
-     "score": "77:82",
-     "opponent": "Petkim Spor",
-     "venue": "H",
-     "date": "18.10. 12:30",
-     "pf": 77,
-     "pa": 82
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "77:75",
-     "opponent": "Anadolu Efes",
-     "venue": "H",
-     "date": "15.11. 17:30",
-     "pf": 77,
-     "pa": 75
-    },
-    {
-     "wl": "W",
-     "score": "59:78",
-     "opponent": "Bursaspor",
-     "venue": "A",
-     "date": "07.11. 17:30",
-     "pf": 78,
-     "pa": 59
-    },
-    {
-     "wl": "W",
-     "score": "88:77",
-     "opponent": "Tofas",
-     "venue": "H",
-     "date": "01.11. 12:30",
-     "pf": 88,
-     "pa": 77
-    },
-    {
-     "wl": "W",
-     "score": "72:97",
-     "opponent": "Karsiyaka",
-     "venue": "A",
-     "date": "25.10. 12:30",
-     "pf": 97,
-     "pa": 72
-    },
-    {
-     "wl": "L",
-     "score": "77:82",
-     "opponent": "Petkim Spor",
-     "venue": "H",
-     "date": "18.10. 12:30",
-     "pf": 77,
-     "pa": 82
-    },
-    {
-     "wl": "W",
-     "score": "85:100",
-     "opponent": "Cayirova",
-     "venue": "A",
-     "date": "10.10. 17:30",
-     "pf": 100,
-     "pa": 85
-    },
-    {
-     "wl": "W",
-     "score": "85:84",
-     "opponent": "Korfez Basket",
-     "venue": "H",
-     "date": "04.10. 12:30",
-     "pf": 85,
-     "pa": 84
-    },
-    {
-     "wl": "L",
-     "score": "98:83",
-     "opponent": "Bahcesehir Kol.",
-     "venue": "A",
-     "date": "27.09. 15:00",
-     "pf": 83,
-     "pa": 98
-    }
-   ],
-   "next": {
-    "date": "22.11. 17:30",
-    "opponent": "Besiktas"
-   },
-   "note": ""
-  },
-  {
-   "name": "Zalgiris Kaunas",
-   "logo": "logos/207f4b8cf1bd.png",
-   "league": "LKL",
-   "league_logo": "logos/c5eddc9adb50.png",
-   "rank": 1,
-   "record": "10-0",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "87:82",
-     "opponent": "Neptunas",
-     "venue": "H",
-     "date": "15.11. 14:50",
-     "pf": 87,
-     "pa": 82
-    },
-    {
-     "wl": "W",
-     "score": "85:94",
-     "opponent": "Juventus",
-     "venue": "A",
-     "date": "08.11. 14:50",
-     "pf": 94,
-     "pa": 85
-    },
-    {
-     "wl": "W",
-     "score": "89:94",
-     "opponent": "Rytas",
-     "venue": "A",
-     "date": "02.11. 14:50",
-     "pf": 94,
-     "pa": 89
-    },
-    {
-     "wl": "W",
-     "score": "86:63",
-     "opponent": "Jonava",
-     "venue": "H",
-     "date": "25.10. 14:50",
-     "pf": 86,
-     "pa": 63
-    },
-    {
-     "wl": "W",
-     "score": "96:76",
-     "opponent": "Taurage",
-     "venue": "H",
-     "date": "18.10. 16:10",
-     "pf": 96,
-     "pa": 76
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "87:82",
-     "opponent": "Neptunas",
-     "venue": "H",
-     "date": "15.11. 14:50",
-     "pf": 87,
-     "pa": 82
-    },
-    {
-     "wl": "W",
-     "score": "85:94",
-     "opponent": "Juventus",
-     "venue": "A",
-     "date": "08.11. 14:50",
-     "pf": 94,
-     "pa": 85
-    },
-    {
-     "wl": "W",
-     "score": "89:94",
-     "opponent": "Rytas",
-     "venue": "A",
-     "date": "02.11. 14:50",
-     "pf": 94,
-     "pa": 89
-    },
-    {
-     "wl": "W",
-     "score": "86:63",
-     "opponent": "Jonava",
-     "venue": "H",
-     "date": "25.10. 14:50",
-     "pf": 86,
-     "pa": 63
-    },
-    {
-     "wl": "W",
-     "score": "96:76",
-     "opponent": "Taurage",
-     "venue": "H",
-     "date": "18.10. 16:10",
-     "pf": 96,
-     "pa": 76
-    },
-    {
-     "wl": "W",
-     "score": "76:80",
-     "opponent": "Nevezis",
-     "venue": "A",
-     "date": "11.10. 14:00",
-     "pf": 80,
-     "pa": 76
-    },
-    {
-     "wl": "W",
-     "score": "97:68",
-     "opponent": "Lietkabelis",
-     "venue": "H",
-     "date": "04.10. 13:50",
-     "pf": 97,
-     "pa": 68
-    },
-    {
-     "wl": "W",
-     "score": "101:82",
-     "opponent": "Siauliai",
-     "venue": "H",
-     "date": "27.09. 13:50",
-     "pf": 101,
-     "pa": 82
-    },
-    {
-     "wl": "W",
-     "score": "69:93",
-     "opponent": "Neptunas",
-     "venue": "A",
-     "date": "20.09. 13:50",
-     "pf": 93,
-     "pa": 69
-    },
-    {
-     "wl": "W",
-     "score": "77:98",
-     "opponent": "Gargzdai",
-     "venue": "A",
-     "date": "17.09. 15:50",
-     "pf": 98,
-     "pa": 77
-    }
-   ],
-   "next": {
-    "date": "22.11. 14:50",
-    "opponent": "Lietkabelis"
-   },
-   "note": ""
-  },
-  {
-   "name": "Dubai",
-   "logo": "logos/8f361860857d.png",
-   "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
-   "rank": 1,
-   "record": "7-0",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "93:75",
-     "opponent": "Spartak Subotica",
-     "venue": "H",
-     "date": "15.11. 09:00",
-     "pf": 93,
-     "pa": 75
-    },
-    {
-     "wl": "W",
-     "score": "87:98",
-     "opponent": "Mega Basket",
-     "venue": "A",
-     "date": "09.11. 19:00",
-     "pf": 98,
-     "pa": 87
-    },
-    {
-     "wl": "W",
-     "score": "89:75",
-     "opponent": "Zadar",
-     "venue": "H",
-     "date": "02.11. 15:30",
-     "pf": 89,
-     "pa": 75
-    },
-    {
-     "wl": "W",
-     "score": "83:93",
-     "opponent": "KK Bosna",
-     "venue": "A",
-     "date": "24.10. 16:00",
-     "pf": 93,
-     "pa": 83
-    },
-    {
-     "wl": "W",
-     "score": "108:90",
-     "opponent": "Studentski Centar",
-     "venue": "H",
-     "date": "19.10. 15:30",
-     "pf": 108,
-     "pa": 90
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "93:75",
-     "opponent": "Spartak Subotica",
-     "venue": "H",
-     "date": "15.11. 09:00",
-     "pf": 93,
-     "pa": 75
-    },
-    {
-     "wl": "W",
-     "score": "87:98",
-     "opponent": "Mega Basket",
-     "venue": "A",
-     "date": "09.11. 19:00",
-     "pf": 98,
-     "pa": 87
-    },
-    {
-     "wl": "W",
-     "score": "89:75",
-     "opponent": "Zadar",
-     "venue": "H",
-     "date": "02.11. 15:30",
-     "pf": 89,
-     "pa": 75
-    },
-    {
-     "wl": "W",
-     "score": "83:93",
-     "opponent": "KK Bosna",
-     "venue": "A",
-     "date": "24.10. 16:00",
-     "pf": 93,
-     "pa": 83
-    },
-    {
-     "wl": "W",
-     "score": "108:90",
-     "opponent": "Studentski Centar",
-     "venue": "H",
-     "date": "19.10. 15:30",
-     "pf": 108,
-     "pa": 90
-    },
-    {
-     "wl": "W",
-     "score": "85:92",
-     "opponent": "Cluj-Napoca",
-     "venue": "A",
-     "date": "11.10. 10:00",
-     "pf": 92,
-     "pa": 85
-    },
-    {
-     "wl": "W",
-     "score": "70:85",
-     "opponent": "Perspektiva Ilirija",
-     "venue": "A",
-     "date": "04.10. 18:00",
-     "pf": 85,
-     "pa": 70
-    }
-   ],
-   "next": {
-    "date": "22.11. 18:30",
-    "opponent": "Partizan Mozzart Bet"
-   },
-   "note": ""
-  },
-  {
    "name": "Hapoel Tel Aviv",
    "logo": "logos/fb32ddc6ad65.png",
    "league": "Super League",
@@ -1424,274 +1424,6 @@
    "note": ""
   },
   {
-   "name": "Anadolu Efes",
-   "logo": "logos/305eb70ac696.png",
-   "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
-   "rank": 4,
-   "record": "5-3",
-   "last5": [
-    {
-     "wl": "L",
-     "score": "77:75",
-     "opponent": "Fenerbahce",
-     "venue": "A",
-     "date": "15.11. 17:30",
-     "pf": 75,
-     "pa": 77
-    },
-    {
-     "wl": "L",
-     "score": "87:93",
-     "opponent": "Tofas",
-     "venue": "H",
-     "date": "08.11. 12:30",
-     "pf": 87,
-     "pa": 93
-    },
-    {
-     "wl": "W",
-     "score": "77:87",
-     "opponent": "Petkim Spor",
-     "venue": "A",
-     "date": "02.11. 15:00",
-     "pf": 87,
-     "pa": 77
-    },
-    {
-     "wl": "W",
-     "score": "93:77",
-     "opponent": "Korfez Basket",
-     "venue": "H",
-     "date": "25.10. 10:00",
-     "pf": 93,
-     "pa": 77
-    },
-    {
-     "wl": "L",
-     "score": "73:70",
-     "opponent": "Esenler Erokspor",
-     "venue": "A",
-     "date": "19.10. 16:00",
-     "pf": 70,
-     "pa": 73
-    }
-   ],
-   "games": [
-    {
-     "wl": "L",
-     "score": "77:75",
-     "opponent": "Fenerbahce",
-     "venue": "A",
-     "date": "15.11. 17:30",
-     "pf": 75,
-     "pa": 77
-    },
-    {
-     "wl": "L",
-     "score": "87:93",
-     "opponent": "Tofas",
-     "venue": "H",
-     "date": "08.11. 12:30",
-     "pf": 87,
-     "pa": 93
-    },
-    {
-     "wl": "W",
-     "score": "77:87",
-     "opponent": "Petkim Spor",
-     "venue": "A",
-     "date": "02.11. 15:00",
-     "pf": 87,
-     "pa": 77
-    },
-    {
-     "wl": "W",
-     "score": "93:77",
-     "opponent": "Korfez Basket",
-     "venue": "H",
-     "date": "25.10. 10:00",
-     "pf": 93,
-     "pa": 77
-    },
-    {
-     "wl": "L",
-     "score": "73:70",
-     "opponent": "Esenler Erokspor",
-     "venue": "A",
-     "date": "19.10. 16:00",
-     "pf": 70,
-     "pa": 73
-    },
-    {
-     "wl": "W",
-     "score": "85:76",
-     "opponent": "Denizli Basket",
-     "venue": "H",
-     "date": "11.10. 12:30",
-     "pf": 85,
-     "pa": 76
-    },
-    {
-     "wl": "W",
-     "score": "79:85",
-     "opponent": "Bordo Bandirma",
-     "venue": "A",
-     "date": "04.10. 15:00",
-     "pf": 85,
-     "pa": 79
-    },
-    {
-     "wl": "W",
-     "score": "95:81",
-     "opponent": "Besiktas",
-     "venue": "H",
-     "date": "27.09. 17:30",
-     "pf": 95,
-     "pa": 81
-    }
-   ],
-   "next": {
-    "date": "22.11. 12:30",
-    "opponent": "Trabzonspor"
-   },
-   "note": ""
-  },
-  {
-   "name": "Besiktas",
-   "logo": "logos/2c1420f05f20.png",
-   "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
-   "rank": 6,
-   "record": "4-4",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "76:71",
-     "opponent": "Bursaspor",
-     "venue": "H",
-     "date": "15.11. 15:00",
-     "pf": 76,
-     "pa": 71
-    },
-    {
-     "wl": "L",
-     "score": "84:83",
-     "opponent": "Karsiyaka",
-     "venue": "A",
-     "date": "09.11. 16:00",
-     "pf": 83,
-     "pa": 84
-    },
-    {
-     "wl": "W",
-     "score": "93:76",
-     "opponent": "Cayirova",
-     "venue": "H",
-     "date": "02.11. 17:30",
-     "pf": 93,
-     "pa": 76
-    },
-    {
-     "wl": "L",
-     "score": "100:96",
-     "opponent": "Bahcesehir Kol.",
-     "venue": "A",
-     "date": "24.10. 17:30",
-     "pf": 96,
-     "pa": 100
-    },
-    {
-     "wl": "W",
-     "score": "83:80",
-     "opponent": "Galatasaray",
-     "venue": "H",
-     "date": "18.10. 17:30",
-     "pf": 83,
-     "pa": 80
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "76:71",
-     "opponent": "Bursaspor",
-     "venue": "H",
-     "date": "15.11. 15:00",
-     "pf": 76,
-     "pa": 71
-    },
-    {
-     "wl": "L",
-     "score": "84:83",
-     "opponent": "Karsiyaka",
-     "venue": "A",
-     "date": "09.11. 16:00",
-     "pf": 83,
-     "pa": 84
-    },
-    {
-     "wl": "W",
-     "score": "93:76",
-     "opponent": "Cayirova",
-     "venue": "H",
-     "date": "02.11. 17:30",
-     "pf": 93,
-     "pa": 76
-    },
-    {
-     "wl": "L",
-     "score": "100:96",
-     "opponent": "Bahcesehir Kol.",
-     "venue": "A",
-     "date": "24.10. 17:30",
-     "pf": 96,
-     "pa": 100
-    },
-    {
-     "wl": "W",
-     "score": "83:80",
-     "opponent": "Galatasaray",
-     "venue": "H",
-     "date": "18.10. 17:30",
-     "pf": 83,
-     "pa": 80
-    },
-    {
-     "wl": "L",
-     "score": "88:63",
-     "opponent": "Turk Telekom",
-     "venue": "A",
-     "date": "11.10. 15:00",
-     "pf": 63,
-     "pa": 88
-    },
-    {
-     "wl": "W",
-     "score": "90:81",
-     "opponent": "Trabzonspor",
-     "venue": "H",
-     "date": "05.10. 16:00",
-     "pf": 90,
-     "pa": 81
-    },
-    {
-     "wl": "L",
-     "score": "95:81",
-     "opponent": "Anadolu Efes",
-     "venue": "A",
-     "date": "27.09. 17:30",
-     "pf": 81,
-     "pa": 95
-    }
-   ],
-   "next": {
-    "date": "22.11. 17:30",
-    "opponent": "Fenerbahce"
-   },
-   "note": ""
-  },
-  {
    "name": "Paris",
    "logo": "logos/32485d516fe0.png",
    "league": "LNB",
@@ -1835,136 +1567,270 @@
    "note": ""
   },
   {
-   "name": "Lyon-Villeurbanne",
-   "logo": "logos/59cea8016204.png",
-   "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "name": "Besiktas",
+   "logo": "logos/2c1420f05f20.png",
+   "league": "Super Lig",
+   "league_logo": "logos/577d84baf758.png",
+   "rank": 6,
+   "record": "4-4",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "76:71",
+     "opponent": "Bursaspor",
+     "venue": "H",
+     "date": "15.11. 15:00",
+     "pf": 76,
+     "pa": 71
+    },
+    {
+     "wl": "L",
+     "score": "84:83",
+     "opponent": "Karsiyaka",
+     "venue": "A",
+     "date": "09.11. 16:00",
+     "pf": 83,
+     "pa": 84
+    },
+    {
+     "wl": "W",
+     "score": "93:76",
+     "opponent": "Cayirova",
+     "venue": "H",
+     "date": "02.11. 17:30",
+     "pf": 93,
+     "pa": 76
+    },
+    {
+     "wl": "L",
+     "score": "100:96",
+     "opponent": "Bahcesehir Kol.",
+     "venue": "A",
+     "date": "24.10. 17:30",
+     "pf": 96,
+     "pa": 100
+    },
+    {
+     "wl": "W",
+     "score": "83:80",
+     "opponent": "Galatasaray",
+     "venue": "H",
+     "date": "18.10. 17:30",
+     "pf": 83,
+     "pa": 80
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "76:71",
+     "opponent": "Bursaspor",
+     "venue": "H",
+     "date": "15.11. 15:00",
+     "pf": 76,
+     "pa": 71
+    },
+    {
+     "wl": "L",
+     "score": "84:83",
+     "opponent": "Karsiyaka",
+     "venue": "A",
+     "date": "09.11. 16:00",
+     "pf": 83,
+     "pa": 84
+    },
+    {
+     "wl": "W",
+     "score": "93:76",
+     "opponent": "Cayirova",
+     "venue": "H",
+     "date": "02.11. 17:30",
+     "pf": 93,
+     "pa": 76
+    },
+    {
+     "wl": "L",
+     "score": "100:96",
+     "opponent": "Bahcesehir Kol.",
+     "venue": "A",
+     "date": "24.10. 17:30",
+     "pf": 96,
+     "pa": 100
+    },
+    {
+     "wl": "W",
+     "score": "83:80",
+     "opponent": "Galatasaray",
+     "venue": "H",
+     "date": "18.10. 17:30",
+     "pf": 83,
+     "pa": 80
+    },
+    {
+     "wl": "L",
+     "score": "88:63",
+     "opponent": "Turk Telekom",
+     "venue": "A",
+     "date": "11.10. 15:00",
+     "pf": 63,
+     "pa": 88
+    },
+    {
+     "wl": "W",
+     "score": "90:81",
+     "opponent": "Trabzonspor",
+     "venue": "H",
+     "date": "05.10. 16:00",
+     "pf": 90,
+     "pa": 81
+    },
+    {
+     "wl": "L",
+     "score": "95:81",
+     "opponent": "Anadolu Efes",
+     "venue": "A",
+     "date": "27.09. 17:30",
+     "pf": 81,
+     "pa": 95
+    }
+   ],
+   "next": {
+    "date": "22.11. 17:30",
+    "opponent": "Fenerbahce"
+   },
+   "note": ""
+  },
+  {
+   "name": "Anadolu Efes",
+   "logo": "logos/305eb70ac696.png",
+   "league": "Super Lig",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 4,
-   "record": "6-2",
+   "record": "5-3",
    "last5": [
     {
      "wl": "L",
-     "score": "109:93",
-     "opponent": "Le Mans",
+     "score": "77:75",
+     "opponent": "Fenerbahce",
      "venue": "A",
-     "date": "15.11. 18:00",
-     "pf": 93,
-     "pa": 109
-    },
-    {
-     "wl": "W",
-     "score": "106:97",
-     "opponent": "Pau-Orthez",
-     "venue": "H",
-     "date": "07.11. 19:30",
-     "pf": 106,
-     "pa": 97
+     "date": "15.11. 17:30",
+     "pf": 75,
+     "pa": 77
     },
     {
      "wl": "L",
-     "score": "99:94",
-     "opponent": "Saint Quentin",
-     "venue": "A",
-     "date": "01.11. 15:30",
-     "pf": 94,
-     "pa": 99
-    },
-    {
-     "wl": "W",
-     "score": "78:74",
-     "opponent": "Nancy",
+     "score": "87:93",
+     "opponent": "Tofas",
      "venue": "H",
-     "date": "25.10. 15:30",
-     "pf": 78,
-     "pa": 74
+     "date": "08.11. 12:30",
+     "pf": 87,
+     "pa": 93
     },
     {
      "wl": "W",
-     "score": "94:97",
-     "opponent": "Limoges",
+     "score": "77:87",
+     "opponent": "Petkim Spor",
      "venue": "A",
-     "date": "17.10. 17:00",
-     "pf": 97,
-     "pa": 94
+     "date": "02.11. 15:00",
+     "pf": 87,
+     "pa": 77
+    },
+    {
+     "wl": "W",
+     "score": "93:77",
+     "opponent": "Korfez Basket",
+     "venue": "H",
+     "date": "25.10. 10:00",
+     "pf": 93,
+     "pa": 77
+    },
+    {
+     "wl": "L",
+     "score": "73:70",
+     "opponent": "Esenler Erokspor",
+     "venue": "A",
+     "date": "19.10. 16:00",
+     "pf": 70,
+     "pa": 73
     }
    ],
    "games": [
     {
      "wl": "L",
-     "score": "109:93",
-     "opponent": "Le Mans",
+     "score": "77:75",
+     "opponent": "Fenerbahce",
      "venue": "A",
-     "date": "15.11. 18:00",
-     "pf": 93,
-     "pa": 109
-    },
-    {
-     "wl": "W",
-     "score": "106:97",
-     "opponent": "Pau-Orthez",
-     "venue": "H",
-     "date": "07.11. 19:30",
-     "pf": 106,
-     "pa": 97
+     "date": "15.11. 17:30",
+     "pf": 75,
+     "pa": 77
     },
     {
      "wl": "L",
-     "score": "99:94",
-     "opponent": "Saint Quentin",
-     "venue": "A",
-     "date": "01.11. 15:30",
-     "pf": 94,
-     "pa": 99
-    },
-    {
-     "wl": "W",
-     "score": "78:74",
-     "opponent": "Nancy",
+     "score": "87:93",
+     "opponent": "Tofas",
      "venue": "H",
-     "date": "25.10. 15:30",
-     "pf": 78,
-     "pa": 74
+     "date": "08.11. 12:30",
+     "pf": 87,
+     "pa": 93
     },
     {
      "wl": "W",
-     "score": "94:97",
-     "opponent": "Limoges",
+     "score": "77:87",
+     "opponent": "Petkim Spor",
      "venue": "A",
-     "date": "17.10. 17:00",
-     "pf": 97,
-     "pa": 94
-    },
-    {
-     "wl": "W",
-     "score": "96:77",
-     "opponent": "Roanne",
-     "venue": "H",
-     "date": "11.10. 17:00",
-     "pf": 96,
+     "date": "02.11. 15:00",
+     "pf": 87,
      "pa": 77
     },
     {
      "wl": "W",
-     "score": "65:70",
-     "opponent": "Gravelines-Dunkerque",
+     "score": "93:77",
+     "opponent": "Korfez Basket",
+     "venue": "H",
+     "date": "25.10. 10:00",
+     "pf": 93,
+     "pa": 77
+    },
+    {
+     "wl": "L",
+     "score": "73:70",
+     "opponent": "Esenler Erokspor",
      "venue": "A",
-     "date": "04.10. 14:30",
+     "date": "19.10. 16:00",
      "pf": 70,
-     "pa": 65
+     "pa": 73
     },
     {
      "wl": "W",
-     "score": "85:97",
-     "opponent": "Cholet",
+     "score": "85:76",
+     "opponent": "Denizli Basket",
+     "venue": "H",
+     "date": "11.10. 12:30",
+     "pf": 85,
+     "pa": 76
+    },
+    {
+     "wl": "W",
+     "score": "79:85",
+     "opponent": "Bordo Bandirma",
      "venue": "A",
-     "date": "27.09. 17:00",
-     "pf": 97,
-     "pa": 85
+     "date": "04.10. 15:00",
+     "pf": 85,
+     "pa": 79
+    },
+    {
+     "wl": "W",
+     "score": "95:81",
+     "opponent": "Besiktas",
+     "venue": "H",
+     "date": "27.09. 17:30",
+     "pf": 95,
+     "pa": 81
     }
    ],
    "next": {
-    "date": "22.11. 18:00",
-    "opponent": "JL Bourg"
+    "date": "22.11. 12:30",
+    "opponent": "Trabzonspor"
    },
    "note": ""
   },
@@ -2099,6 +1965,140 @@
    "next": {
     "date": "22.11. 17:00",
     "opponent": "BC Roma"
+   },
+   "note": ""
+  },
+  {
+   "name": "Lyon-Villeurbanne",
+   "logo": "logos/59cea8016204.png",
+   "league": "LNB",
+   "league_logo": "logos/c611aab280e5.png",
+   "rank": 4,
+   "record": "6-2",
+   "last5": [
+    {
+     "wl": "L",
+     "score": "109:93",
+     "opponent": "Le Mans",
+     "venue": "A",
+     "date": "15.11. 18:00",
+     "pf": 93,
+     "pa": 109
+    },
+    {
+     "wl": "W",
+     "score": "106:97",
+     "opponent": "Pau-Orthez",
+     "venue": "H",
+     "date": "07.11. 19:30",
+     "pf": 106,
+     "pa": 97
+    },
+    {
+     "wl": "L",
+     "score": "99:94",
+     "opponent": "Saint Quentin",
+     "venue": "A",
+     "date": "01.11. 15:30",
+     "pf": 94,
+     "pa": 99
+    },
+    {
+     "wl": "W",
+     "score": "78:74",
+     "opponent": "Nancy",
+     "venue": "H",
+     "date": "25.10. 15:30",
+     "pf": 78,
+     "pa": 74
+    },
+    {
+     "wl": "W",
+     "score": "94:97",
+     "opponent": "Limoges",
+     "venue": "A",
+     "date": "17.10. 17:00",
+     "pf": 97,
+     "pa": 94
+    }
+   ],
+   "games": [
+    {
+     "wl": "L",
+     "score": "109:93",
+     "opponent": "Le Mans",
+     "venue": "A",
+     "date": "15.11. 18:00",
+     "pf": 93,
+     "pa": 109
+    },
+    {
+     "wl": "W",
+     "score": "106:97",
+     "opponent": "Pau-Orthez",
+     "venue": "H",
+     "date": "07.11. 19:30",
+     "pf": 106,
+     "pa": 97
+    },
+    {
+     "wl": "L",
+     "score": "99:94",
+     "opponent": "Saint Quentin",
+     "venue": "A",
+     "date": "01.11. 15:30",
+     "pf": 94,
+     "pa": 99
+    },
+    {
+     "wl": "W",
+     "score": "78:74",
+     "opponent": "Nancy",
+     "venue": "H",
+     "date": "25.10. 15:30",
+     "pf": 78,
+     "pa": 74
+    },
+    {
+     "wl": "W",
+     "score": "94:97",
+     "opponent": "Limoges",
+     "venue": "A",
+     "date": "17.10. 17:00",
+     "pf": 97,
+     "pa": 94
+    },
+    {
+     "wl": "W",
+     "score": "96:77",
+     "opponent": "Roanne",
+     "venue": "H",
+     "date": "11.10. 17:00",
+     "pf": 96,
+     "pa": 77
+    },
+    {
+     "wl": "W",
+     "score": "65:70",
+     "opponent": "Gravelines-Dunkerque",
+     "venue": "A",
+     "date": "04.10. 14:30",
+     "pf": 70,
+     "pa": 65
+    },
+    {
+     "wl": "W",
+     "score": "85:97",
+     "opponent": "Cholet",
+     "venue": "A",
+     "date": "27.09. 17:00",
+     "pf": 97,
+     "pa": 85
+    }
+   ],
+   "next": {
+    "date": "22.11. 18:00",
+    "opponent": "JL Bourg"
    },
    "note": ""
   },
@@ -2490,7 +2490,7 @@
    "name": "Baskonia",
    "logo": "logos/98ab31536eee.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 5,
    "record": "5-3",
    "last5": [
