@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-11-20 10:50",
+ "updated": "2026-11-20 19:30",
  "comp_logo": "logos/5023133ad812.png",
  "teams": [
   {
@@ -1195,7 +1195,7 @@
    "name": "Hapoel Tel Aviv",
    "logo": "logos/fb32ddc6ad65.png",
    "league": "Super League",
-   "league_logo": "logos/7af634241793.png",
+   "league_logo": "logos/07d3791c1460.png",
    "rank": 2,
    "record": "4-1",
    "last5": [
@@ -1838,7 +1838,7 @@
    "name": "Virtus Bologna",
    "logo": "logos/a521f88d4d91.png",
    "league": "Lega A",
-   "league_logo": "logos/a535f34abeaf.png",
+   "league_logo": "logos/b55c66fda764.png",
    "rank": 1,
    "record": "7-1",
    "last5": [
@@ -1965,140 +1965,6 @@
    "next": {
     "date": "22.11. 17:00",
     "opponent": "BC Roma"
-   },
-   "note": ""
-  },
-  {
-   "name": "Lyon-Villeurbanne",
-   "logo": "logos/59cea8016204.png",
-   "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
-   "rank": 4,
-   "record": "6-2",
-   "last5": [
-    {
-     "wl": "L",
-     "score": "109:93",
-     "opponent": "Le Mans",
-     "venue": "A",
-     "date": "15.11. 18:00",
-     "pf": 93,
-     "pa": 109
-    },
-    {
-     "wl": "W",
-     "score": "106:97",
-     "opponent": "Pau-Orthez",
-     "venue": "H",
-     "date": "07.11. 19:30",
-     "pf": 106,
-     "pa": 97
-    },
-    {
-     "wl": "L",
-     "score": "99:94",
-     "opponent": "Saint Quentin",
-     "venue": "A",
-     "date": "01.11. 15:30",
-     "pf": 94,
-     "pa": 99
-    },
-    {
-     "wl": "W",
-     "score": "78:74",
-     "opponent": "Nancy",
-     "venue": "H",
-     "date": "25.10. 15:30",
-     "pf": 78,
-     "pa": 74
-    },
-    {
-     "wl": "W",
-     "score": "94:97",
-     "opponent": "Limoges",
-     "venue": "A",
-     "date": "17.10. 17:00",
-     "pf": 97,
-     "pa": 94
-    }
-   ],
-   "games": [
-    {
-     "wl": "L",
-     "score": "109:93",
-     "opponent": "Le Mans",
-     "venue": "A",
-     "date": "15.11. 18:00",
-     "pf": 93,
-     "pa": 109
-    },
-    {
-     "wl": "W",
-     "score": "106:97",
-     "opponent": "Pau-Orthez",
-     "venue": "H",
-     "date": "07.11. 19:30",
-     "pf": 106,
-     "pa": 97
-    },
-    {
-     "wl": "L",
-     "score": "99:94",
-     "opponent": "Saint Quentin",
-     "venue": "A",
-     "date": "01.11. 15:30",
-     "pf": 94,
-     "pa": 99
-    },
-    {
-     "wl": "W",
-     "score": "78:74",
-     "opponent": "Nancy",
-     "venue": "H",
-     "date": "25.10. 15:30",
-     "pf": 78,
-     "pa": 74
-    },
-    {
-     "wl": "W",
-     "score": "94:97",
-     "opponent": "Limoges",
-     "venue": "A",
-     "date": "17.10. 17:00",
-     "pf": 97,
-     "pa": 94
-    },
-    {
-     "wl": "W",
-     "score": "96:77",
-     "opponent": "Roanne",
-     "venue": "H",
-     "date": "11.10. 17:00",
-     "pf": 96,
-     "pa": 77
-    },
-    {
-     "wl": "W",
-     "score": "65:70",
-     "opponent": "Gravelines-Dunkerque",
-     "venue": "A",
-     "date": "04.10. 14:30",
-     "pf": 70,
-     "pa": 65
-    },
-    {
-     "wl": "W",
-     "score": "85:97",
-     "opponent": "Cholet",
-     "venue": "A",
-     "date": "27.09. 17:00",
-     "pf": 97,
-     "pa": 85
-    }
-   ],
-   "next": {
-    "date": "22.11. 18:00",
-    "opponent": "JL Bourg"
    },
    "note": ""
   },
@@ -2246,10 +2112,144 @@
    "note": ""
   },
   {
+   "name": "Lyon-Villeurbanne",
+   "logo": "logos/59cea8016204.png",
+   "league": "LNB",
+   "league_logo": "logos/c611aab280e5.png",
+   "rank": 4,
+   "record": "6-2",
+   "last5": [
+    {
+     "wl": "L",
+     "score": "109:93",
+     "opponent": "Le Mans",
+     "venue": "A",
+     "date": "15.11. 18:00",
+     "pf": 93,
+     "pa": 109
+    },
+    {
+     "wl": "W",
+     "score": "106:97",
+     "opponent": "Pau-Orthez",
+     "venue": "H",
+     "date": "07.11. 19:30",
+     "pf": 106,
+     "pa": 97
+    },
+    {
+     "wl": "L",
+     "score": "99:94",
+     "opponent": "Saint Quentin",
+     "venue": "A",
+     "date": "01.11. 15:30",
+     "pf": 94,
+     "pa": 99
+    },
+    {
+     "wl": "W",
+     "score": "78:74",
+     "opponent": "Nancy",
+     "venue": "H",
+     "date": "25.10. 15:30",
+     "pf": 78,
+     "pa": 74
+    },
+    {
+     "wl": "W",
+     "score": "94:97",
+     "opponent": "Limoges",
+     "venue": "A",
+     "date": "17.10. 17:00",
+     "pf": 97,
+     "pa": 94
+    }
+   ],
+   "games": [
+    {
+     "wl": "L",
+     "score": "109:93",
+     "opponent": "Le Mans",
+     "venue": "A",
+     "date": "15.11. 18:00",
+     "pf": 93,
+     "pa": 109
+    },
+    {
+     "wl": "W",
+     "score": "106:97",
+     "opponent": "Pau-Orthez",
+     "venue": "H",
+     "date": "07.11. 19:30",
+     "pf": 106,
+     "pa": 97
+    },
+    {
+     "wl": "L",
+     "score": "99:94",
+     "opponent": "Saint Quentin",
+     "venue": "A",
+     "date": "01.11. 15:30",
+     "pf": 94,
+     "pa": 99
+    },
+    {
+     "wl": "W",
+     "score": "78:74",
+     "opponent": "Nancy",
+     "venue": "H",
+     "date": "25.10. 15:30",
+     "pf": 78,
+     "pa": 74
+    },
+    {
+     "wl": "W",
+     "score": "94:97",
+     "opponent": "Limoges",
+     "venue": "A",
+     "date": "17.10. 17:00",
+     "pf": 97,
+     "pa": 94
+    },
+    {
+     "wl": "W",
+     "score": "96:77",
+     "opponent": "Roanne",
+     "venue": "H",
+     "date": "11.10. 17:00",
+     "pf": 96,
+     "pa": 77
+    },
+    {
+     "wl": "W",
+     "score": "65:70",
+     "opponent": "Gravelines-Dunkerque",
+     "venue": "A",
+     "date": "04.10. 14:30",
+     "pf": 70,
+     "pa": 65
+    },
+    {
+     "wl": "W",
+     "score": "85:97",
+     "opponent": "Cholet",
+     "venue": "A",
+     "date": "27.09. 17:00",
+     "pf": 97,
+     "pa": 85
+    }
+   ],
+   "next": {
+    "date": "22.11. 18:00",
+    "opponent": "JL Bourg"
+   },
+   "note": ""
+  },
+  {
    "name": "Olimpia Milano",
    "logo": "logos/8ba53e5cb6fd.png",
    "league": "Lega A",
-   "league_logo": "logos/a535f34abeaf.png",
+   "league_logo": "logos/b55c66fda764.png",
    "rank": 3,
    "record": "6-2",
    "last5": [
@@ -2383,7 +2383,7 @@
    "name": "Maccabi Tel Aviv",
    "logo": "logos/06951b3cfab7.png",
    "league": "Super League",
-   "league_logo": "logos/7af634241793.png",
+   "league_logo": "logos/07d3791c1460.png",
    "rank": 9,
    "record": "2-3",
    "last5": [
