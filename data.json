@@ -1,7 +1,7 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-11-21 10:33",
- "comp_logo": "logos/a4426d3c0e5a.png",
+ "updated": "2026-11-21 18:35",
+ "comp_logo": "logos/5023133ad812.png",
  "teams": [
   {
    "name": "Valencia",
@@ -142,7 +142,7 @@
    "logo": "logos/a8e763b6b424.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 4,
+   "rank": 9,
    "record": "6-1",
    "last5": [
     {
@@ -268,8 +268,17 @@
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
    "rank": 3,
-   "record": "6-1",
+   "record": "7-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "85:72",
+     "opponent": "Maroussi",
+     "venue": "H",
+     "date": "21.11. 15:30",
+     "pf": 85,
+     "pa": 72
+    },
     {
      "wl": "W",
      "score": "78:73",
@@ -305,18 +314,18 @@
      "date": "24.10. 16:00",
      "pf": 78,
      "pa": 64
-    },
-    {
-     "wl": "W",
-     "score": "95:75",
-     "opponent": "Peristeri",
-     "venue": "H",
-     "date": "18.10. 10:00",
-     "pf": 95,
-     "pa": 75
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "85:72",
+     "opponent": "Maroussi",
+     "venue": "H",
+     "date": "21.11. 15:30",
+     "pf": 85,
+     "pa": 72
+    },
     {
      "wl": "W",
      "score": "78:73",
@@ -382,8 +391,8 @@
     }
    ],
    "next": {
-    "date": "21.11. 15:30",
-    "opponent": "Maroussi"
+    "date": "06.12. 12:00",
+    "opponent": "Mykonos"
    },
    "note": ""
   },
@@ -1197,8 +1206,17 @@
    "league": "Super League",
    "league_logo": "logos/7af634241793.png",
    "rank": 2,
-   "record": "4-1",
+   "record": "5-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "85:60",
+     "opponent": "Ironi Kiryat Ata",
+     "venue": "H",
+     "date": "21.11. 16:30",
+     "pf": 85,
+     "pa": 60
+    },
     {
      "wl": "W",
      "score": "78:71",
@@ -1234,18 +1252,18 @@
      "date": "18.10. 15:30",
      "pf": 81,
      "pa": 67
-    },
-    {
-     "wl": "W",
-     "score": "82:95",
-     "opponent": "Hapoel Beer Sheva",
-     "venue": "A",
-     "date": "11.10. 15:30",
-     "pf": 95,
-     "pa": 82
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "85:60",
+     "opponent": "Ironi Kiryat Ata",
+     "venue": "H",
+     "date": "21.11. 16:30",
+     "pf": 85,
+     "pa": 60
+    },
     {
      "wl": "W",
      "score": "78:71",
@@ -1293,8 +1311,8 @@
     }
    ],
    "next": {
-    "date": "21.11. 16:30",
-    "opponent": "Ironi Kiryat Ata"
+    "date": "05.12. 17:15",
+    "opponent": "Nes Ziona"
    },
    "note": ""
   },
@@ -1571,7 +1589,7 @@
    "logo": "logos/305eb70ac696.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 4,
+   "rank": 5,
    "record": "5-3",
    "last5": [
     {
@@ -1705,7 +1723,7 @@
    "logo": "logos/2c1420f05f20.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 6,
+   "rank": 9,
    "record": "4-4",
    "last5": [
     {
