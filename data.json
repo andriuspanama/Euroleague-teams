@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-11-22 18:56",
+ "updated": "2026-11-23 01:20",
  "comp_logo": "logos/5023133ad812.png",
  "teams": [
   {
@@ -420,8 +420,17 @@
    "league": "Adrijos lyga",
    "league_logo": "logos/9cba694f5f88.png",
    "rank": 1,
-   "record": "7-0",
+   "record": "7-1",
    "last5": [
+    {
+     "wl": "L",
+     "score": "78:76",
+     "opponent": "Partizan Mozzart Bet",
+     "venue": "A",
+     "date": "22.11. 18:30",
+     "pf": 76,
+     "pa": 78
+    },
     {
      "wl": "W",
      "score": "93:75",
@@ -457,18 +466,18 @@
      "date": "24.10. 16:00",
      "pf": 93,
      "pa": 83
-    },
-    {
-     "wl": "W",
-     "score": "108:90",
-     "opponent": "Studentski Centar",
-     "venue": "H",
-     "date": "19.10. 15:30",
-     "pf": 108,
-     "pa": 90
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "78:76",
+     "opponent": "Partizan Mozzart Bet",
+     "venue": "A",
+     "date": "22.11. 18:30",
+     "pf": 76,
+     "pa": 78
+    },
     {
      "wl": "W",
      "score": "93:75",
@@ -544,9 +553,18 @@
    "logo": "logos/ce0512d2b115.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 4,
-   "record": "6-2",
+   "rank": 3,
+   "record": "6-3",
    "last5": [
+    {
+     "wl": "L",
+     "score": "92:88",
+     "opponent": "Besiktas",
+     "venue": "A",
+     "date": "22.11. 17:30",
+     "pf": 88,
+     "pa": 92
+    },
     {
      "wl": "W",
      "score": "77:75",
@@ -582,18 +600,18 @@
      "date": "25.10. 12:30",
      "pf": 97,
      "pa": 72
-    },
-    {
-     "wl": "L",
-     "score": "77:82",
-     "opponent": "Petkim Spor",
-     "venue": "H",
-     "date": "18.10. 12:30",
-     "pf": 77,
-     "pa": 82
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "92:88",
+     "opponent": "Besiktas",
+     "venue": "A",
+     "date": "22.11. 17:30",
+     "pf": 88,
+     "pa": 92
+    },
     {
      "wl": "W",
      "score": "77:75",
@@ -1117,8 +1135,17 @@
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
    "rank": 1,
-   "record": "8-0",
+   "record": "9-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "91:88",
+     "opponent": "Joventut Badalona",
+     "venue": "H",
+     "date": "22.11. 18:00",
+     "pf": 91,
+     "pa": 88
+    },
     {
      "wl": "W",
      "score": "84:98",
@@ -1154,18 +1181,18 @@
      "date": "25.10. 18:00",
      "pf": 122,
      "pa": 86
-    },
-    {
-     "wl": "W",
-     "score": "119:84",
-     "opponent": "Bilbao",
-     "venue": "H",
-     "date": "18.10. 10:30",
-     "pf": 119,
-     "pa": 84
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "91:88",
+     "opponent": "Joventut Badalona",
+     "venue": "H",
+     "date": "22.11. 18:00",
+     "pf": 91,
+     "pa": 88
+    },
     {
      "wl": "W",
      "score": "84:98",
@@ -1366,9 +1393,18 @@
    "logo": "logos/b85eb70fe82f.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/9cba694f5f88.png",
-   "rank": 3,
-   "record": "6-1",
+   "rank": 2,
+   "record": "7-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "78:76",
+     "opponent": "Dubai",
+     "venue": "H",
+     "date": "22.11. 18:30",
+     "pf": 78,
+     "pa": 76
+    },
     {
      "wl": "L",
      "score": "81:74",
@@ -1404,18 +1440,18 @@
      "date": "24.10. 18:30",
      "pf": 82,
      "pa": 80
-    },
-    {
-     "wl": "W",
-     "score": "84:89",
-     "opponent": "KK Bosna",
-     "venue": "A",
-     "date": "18.10. 12:00",
-     "pf": 89,
-     "pa": 84
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "78:76",
+     "opponent": "Dubai",
+     "venue": "H",
+     "date": "22.11. 18:30",
+     "pf": 78,
+     "pa": 76
+    },
     {
      "wl": "L",
      "score": "81:74",
@@ -1490,7 +1526,7 @@
    "name": "Paris",
    "logo": "logos/32485d516fe0.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 1,
    "record": "9-1",
    "last5": [
@@ -1643,7 +1679,7 @@
    "logo": "logos/305eb70ac696.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 3,
+   "rank": 4,
    "record": "6-3",
    "last5": [
     {
@@ -1786,9 +1822,18 @@
    "logo": "logos/2c1420f05f20.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 12,
-   "record": "4-4",
+   "rank": 7,
+   "record": "5-4",
    "last5": [
+    {
+     "wl": "W",
+     "score": "92:88",
+     "opponent": "Fenerbahce",
+     "venue": "H",
+     "date": "22.11. 17:30",
+     "pf": 92,
+     "pa": 88
+    },
     {
      "wl": "W",
      "score": "76:71",
@@ -1824,18 +1869,18 @@
      "date": "24.10. 17:30",
      "pf": 96,
      "pa": 100
-    },
-    {
-     "wl": "W",
-     "score": "83:80",
-     "opponent": "Galatasaray",
-     "venue": "H",
-     "date": "18.10. 17:30",
-     "pf": 83,
-     "pa": 80
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "92:88",
+     "opponent": "Fenerbahce",
+     "venue": "H",
+     "date": "22.11. 17:30",
+     "pf": 92,
+     "pa": 88
+    },
     {
      "wl": "W",
      "score": "76:71",
@@ -1925,6 +1970,15 @@
    "last5": [
     {
      "wl": "W",
+     "score": "117:110",
+     "opponent": "BC Roma",
+     "venue": "H",
+     "date": "22.11. 17:00",
+     "pf": 117,
+     "pa": 110
+    },
+    {
+     "wl": "W",
      "score": "75:88",
      "opponent": "Trento",
      "venue": "A",
@@ -1958,18 +2012,18 @@
      "date": "25.10. 15:00",
      "pf": 98,
      "pa": 94
-    },
-    {
-     "wl": "W",
-     "score": "108:83",
-     "opponent": "Scafati",
-     "venue": "H",
-     "date": "18.10. 16:30",
-     "pf": 108,
-     "pa": 83
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "117:110",
+     "opponent": "BC Roma",
+     "venue": "H",
+     "date": "22.11. 17:00",
+     "pf": 117,
+     "pa": 110
+    },
     {
      "wl": "W",
      "score": "75:88",
@@ -2059,6 +2113,15 @@
    "last5": [
     {
      "wl": "W",
+     "score": "79:90",
+     "opponent": "Alba Berlin",
+     "venue": "A",
+     "date": "22.11. 17:00",
+     "pf": 90,
+     "pa": 79
+    },
+    {
+     "wl": "W",
      "score": "91:61",
      "opponent": "Syntainics MBC",
      "venue": "H",
@@ -2092,18 +2155,18 @@
      "date": "01.11. 14:00",
      "pf": 67,
      "pa": 69
-    },
-    {
-     "wl": "W",
-     "score": "96:77",
-     "opponent": "Hamburg",
-     "venue": "H",
-     "date": "25.10. 15:30",
-     "pf": 96,
-     "pa": 77
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "79:90",
+     "opponent": "Alba Berlin",
+     "venue": "A",
+     "date": "22.11. 17:00",
+     "pf": 90,
+     "pa": 79
+    },
     {
      "wl": "W",
      "score": "91:61",
@@ -2196,10 +2259,19 @@
    "name": "Lyon-Villeurbanne",
    "logo": "logos/59cea8016204.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 4,
-   "record": "6-2",
+   "record": "6-3",
    "last5": [
+    {
+     "wl": "L",
+     "score": "91:101",
+     "opponent": "JL Bourg",
+     "venue": "H",
+     "date": "22.11. 18:00",
+     "pf": 91,
+     "pa": 101
+    },
     {
      "wl": "L",
      "score": "109:93",
@@ -2235,18 +2307,18 @@
      "date": "25.10. 15:30",
      "pf": 78,
      "pa": 74
-    },
-    {
-     "wl": "W",
-     "score": "94:97",
-     "opponent": "Limoges",
-     "venue": "A",
-     "date": "17.10. 17:00",
-     "pf": 97,
-     "pa": 94
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "91:101",
+     "opponent": "JL Bourg",
+     "venue": "H",
+     "date": "22.11. 18:00",
+     "pf": 91,
+     "pa": 101
+    },
     {
      "wl": "L",
      "score": "109:93",
@@ -2474,7 +2546,7 @@
    "logo": "logos/06951b3cfab7.png",
    "league": "Super League",
    "league_logo": "logos/7af634241793.png",
-   "rank": 6,
+   "rank": 7,
    "record": "3-3",
    "last5": [
     {
