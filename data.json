@@ -1,6 +1,6 @@
 {
  "title": "EuroLeague 2026-2027",
- "updated": "2026-11-23 01:20",
+ "updated": "2026-11-23 11:39",
  "comp_logo": "logos/5023133ad812.png",
  "teams": [
   {
@@ -276,7 +276,7 @@
    ],
    "next": {
     "date": "06.12. 15:30",
-    "opponent": "Lefkadas"
+    "opponent": "Doxa Lefkadas"
    },
    "note": ""
   },
@@ -418,7 +418,7 @@
    "name": "Dubai",
    "logo": "logos/8f361860857d.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
+   "league_logo": "logos/4ecaeb496585.png",
    "rank": 1,
    "record": "7-1",
    "last5": [
@@ -695,7 +695,7 @@
    "name": "Crvena Zvezda Meridianbet",
    "logo": "logos/69a25cbc4b87.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
+   "league_logo": "logos/4ecaeb496585.png",
    "rank": 1,
    "record": "7-1",
    "last5": [
@@ -1392,7 +1392,7 @@
    "name": "Partizan Mozzart Bet",
    "logo": "logos/b85eb70fe82f.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
+   "league_logo": "logos/4ecaeb496585.png",
    "rank": 2,
    "record": "7-1",
    "last5": [
@@ -1526,7 +1526,7 @@
    "name": "Paris",
    "logo": "logos/32485d516fe0.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 1,
    "record": "9-1",
    "last5": [
@@ -2259,7 +2259,7 @@
    "name": "Lyon-Villeurbanne",
    "logo": "logos/59cea8016204.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 4,
    "record": "6-3",
    "last5": [
